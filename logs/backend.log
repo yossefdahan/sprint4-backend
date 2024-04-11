@@ -197,3 +197,91 @@
 11.4.2024, 15:06:54 - INFO - Server is running on port: 3030
 11.4.2024, 15:08:08 - INFO - server.js loaded...
 11.4.2024, 15:08:08 - INFO - Server is running on port: 3030
+11.4.2024, 15:17:15 - DEBUG - auth.service - signup with username: bob, fullname: bob haha
+11.4.2024, 15:17:16 - DEBUG - auth.route - new account created: {"username":"bob","password":"$2b$10$qKhkKUTb7o9P6ND84pCP3.kDHwQtwBgNb3fK6gWWiES32Dq0Au9Fu","fullname":"bob haha","imgUrl":"https://a0.muscache.com/im/pictures/user/30283df3-5b0b-47bb-8f81-990bdf925fb6.jpg?aki_policy=profile_x_medium","_id":"6617d4cc851139d985ac7fc2"}
+11.4.2024, 15:17:16 - DEBUG - auth.service - login with username: bob
+11.4.2024, 15:47:10 - INFO - Req was made | /
+11.4.2024, 15:47:10 - ERROR - while finding stay s101 | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+11.4.2024, 15:47:10 - ERROR - Failed to get stay | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+11.4.2024, 15:47:10 - INFO - Req was made | /
+11.4.2024, 15:47:31 - INFO - server.js loaded...
+11.4.2024, 15:47:31 - INFO - Server is running on port: 3030
+11.4.2024, 15:47:59 - INFO - Req was made | /
+11.4.2024, 15:48:00 - INFO - Req was made | /
+11.4.2024, 15:52:09 - INFO - Req was made | /
+11.4.2024, 15:52:11 - INFO - Req was made | /
+11.4.2024, 15:53:14 - INFO - Req was made | /
+11.4.2024, 15:53:19 - INFO - Req was made | /
+11.4.2024, 15:53:23 - INFO - Req was made | /
+11.4.2024, 15:53:25 - INFO - Req was made | /
+11.4.2024, 15:53:37 - INFO - Req was made | /
+11.4.2024, 15:53:39 - INFO - Req was made | /
+11.4.2024, 15:55:38 - INFO - Req was made | /
+11.4.2024, 15:55:40 - INFO - Req was made | /
+11.4.2024, 15:56:03 - INFO - Req was made | /
+11.4.2024, 15:56:26 - DEBUG - auth.service - signup with username: yossi, fullname: yossi d
+11.4.2024, 15:56:26 - DEBUG - auth.route - new account created: {"username":"yossi","password":"$2b$10$j2s0G70ZJFupwAyNTWzY8.529clrA.0MET97XYMTTsy.u9VHcMOfi","fullname":"yossi d","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1712840183/zgapr5vjeggxj7jlstpr.jpg","_id":"6617ddfa358264cf954e1abe"}
+11.4.2024, 15:56:26 - DEBUG - auth.service - login with username: yossi
+11.4.2024, 16:00:02 - INFO - Req was made | /
+11.4.2024, 16:00:05 - INFO - Req was made | /
+11.4.2024, 16:00:16 - INFO - Req was made | /
+11.4.2024, 16:00:20 - INFO - Req was made | /
+11.4.2024, 16:00:24 - INFO - Req was made | /
+11.4.2024, 16:59:01 - INFO - Req was made | /
+11.4.2024, 16:59:04 - INFO - Req was made | /
+11.4.2024, 17:01:30 - INFO - Req was made | /
+11.4.2024, 17:01:33 - INFO - Req was made | /
+11.4.2024, 17:05:37 - INFO - Req was made | /
+11.4.2024, 17:05:41 - INFO - Req was made | /
+11.4.2024, 17:08:12 - INFO - Req was made | /
+11.4.2024, 17:08:12 - INFO - Req was made | /
+11.4.2024, 17:08:15 - INFO - Req was made | /
+11.4.2024, 17:08:16 - INFO - Req was made | /
+11.4.2024, 17:08:18 - INFO - Req was made | /
+11.4.2024, 17:08:21 - INFO - Req was made | /
+11.4.2024, 17:08:50 - INFO - Req was made | /
+11.4.2024, 17:08:57 - INFO - Req was made | /
+11.4.2024, 17:09:01 - INFO - Req was made | /
+11.4.2024, 17:09:35 - INFO - Req was made | /
+11.4.2024, 17:09:39 - INFO - Req was made | /
+11.4.2024, 17:09:42 - INFO - Req was made | /
+11.4.2024, 17:09:45 - INFO - Req was made | /
+11.4.2024, 17:10:07 - INFO - Req was made | /
+11.4.2024, 17:10:10 - INFO - Req was made | /
+11.4.2024, 17:10:27 - INFO - Req was made | /
+11.4.2024, 17:10:33 - INFO - Req was made | /
+11.4.2024, 18:42:52 - INFO - Req was made | /
+11.4.2024, 18:42:56 - INFO - Req was made | /
+11.4.2024, 18:46:46 - INFO - Req was made | /
+11.4.2024, 18:46:50 - INFO - Req was made | /
+11.4.2024, 18:47:40 - INFO - Req was made | /
+11.4.2024, 18:47:44 - INFO - Req was made | /
+11.4.2024, 19:15:59 - INFO - Req was made | /
+11.4.2024, 19:16:04 - INFO - Req was made | /
+11.4.2024, 19:16:06 - INFO - Req was made | /
+11.4.2024, 19:17:27 - INFO - Req was made | /
+11.4.2024, 19:17:33 - INFO - Req was made | /
+11.4.2024, 19:18:31 - INFO - Req was made | /
+11.4.2024, 19:18:37 - INFO - Req was made | /
+11.4.2024, 19:24:36 - INFO - Req was made | /
+11.4.2024, 19:24:43 - INFO - Req was made | /
+11.4.2024, 19:28:08 - INFO - Req was made | /
+11.4.2024, 19:28:12 - INFO - Req was made | /
+11.4.2024, 19:40:48 - INFO - Req was made | /
+11.4.2024, 19:40:52 - INFO - Req was made | /
+11.4.2024, 19:43:07 - INFO - Req was made | /
+11.4.2024, 19:43:15 - INFO - Req was made | /
+11.4.2024, 19:59:23 - INFO - Req was made | /
+11.4.2024, 19:59:30 - INFO - Req was made | /
+11.4.2024, 19:59:56 - INFO - Req was made | /
+11.4.2024, 20:00:03 - INFO - Req was made | /
+11.4.2024, 20:03:53 - INFO - Req was made | /
+11.4.2024, 20:03:59 - INFO - Req was made | /
+11.4.2024, 20:04:05 - INFO - Req was made | /
+11.4.2024, 20:04:06 - INFO - Req was made | /
+11.4.2024, 20:05:17 - INFO - Req was made | /
+11.4.2024, 20:05:20 - INFO - Req was made | /
+11.4.2024, 20:34:36 - INFO - Req was made | /
+11.4.2024, 20:34:41 - INFO - Req was made | /
+11.4.2024, 20:35:09 - INFO - Req was made | /
+11.4.2024, 20:35:14 - INFO - Req was made | /
