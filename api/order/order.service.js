@@ -85,11 +85,13 @@ async function remove(orderId) {
 
 async function add(order) {
     try {
+        order.buyer._id = new ObjectId(order.buyer._id)
         const orderToAdd = {
-            buyer: new ObjectId(order.buyer),
+            ...order,
             hostId: new ObjectId(order.hostId),
             // txt: order.txt
         }
+        console.log(orderToAdd)
         const collection = await dbService.getCollection('order')
         await collection.insertOne(orderToAdd)
         return orderToAdd

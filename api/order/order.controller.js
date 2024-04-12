@@ -36,20 +36,23 @@ export async function addOrder(req, res) {
     // var { loggedinUser } = req
     try {
         var order = req.body
+        // console.log(order)
+
         order.buyer = loggedinUser
+        console.log(order.buyer)
         order = await orderService.add(order)
         // order.stay = await stayService.getById(order.stayId)
 
         // console.log(loggedinUser);
         // loggedinUser = await userService.getById(loggedinUser)
-        order.hostId = order.stay.host._id
+        // order.hostId = order.stay.host._id
         // console.log(loggedinUser);
         // User info is saved also in the login-token, update it
         // const loginToken = authService.getLoginToken(loggedinUser)
         // res.cookie('loginToken', loginToken)
 
-        delete order.stayId
-        delete order.buyer
+        // delete order.stayId
+        // delete order.buyer
 
         // socketService.broadcast({ type: 'order-added', data: order, buyer: loggedinUser._id })
         // socketService.emitToUser({ type: 'order-about-you', data: order, buyer: order.stay._id })
