@@ -86,6 +86,7 @@ async function remove(orderId) {
 async function add(order) {
     try {
         order.buyer._id = new ObjectId(order.buyer._id)
+        order.stay._id = new ObjectId(order.stay._id)
         const orderToAdd = {
             ...order,
             hostId: new ObjectId(order.hostId),

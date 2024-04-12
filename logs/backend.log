@@ -1431,3 +1431,12 @@
 12.4.2024, 16:13:38 - INFO - Req was made | /
 12.4.2024, 16:13:38 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
 12.4.2024, 16:13:38 - INFO - Req was made | /
+12.4.2024, 16:18:42 - INFO - Req was made | /
+12.4.2024, 16:19:47 - INFO - Req was made | /
+12.4.2024, 16:19:51 - INFO - Req was made | /
+12.4.2024, 16:19:51 - ERROR - Cannot get orders | ReferenceError: orders is not defined
+12.4.2024, 16:19:51 - ERROR - cannot find orders | ReferenceError: orders is not defined
+12.4.2024, 16:19:51 - INFO - Req was made | /
+12.4.2024, 16:19:54 - INFO - Req was made | /
+12.4.2024, 16:22:11 - INFO - server.js loaded...
+12.4.2024, 16:22:11 - INFO - Server is running on port: 3030
