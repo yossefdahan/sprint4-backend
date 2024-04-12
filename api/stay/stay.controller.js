@@ -5,7 +5,7 @@ import { userService } from '../user/user.service.js'
 export async function getStays(req, res) {
 
     try {
-        const { filterBy = {} } = req.query.params
+        const { filterBy } = req.query.params
         // loggerService.debug('Getting Stays', filterBy)
         // loggerService.debug('Getting Stays', sortBy)
 

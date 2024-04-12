@@ -36,6 +36,7 @@ async function query(filterBy = {}) {
         // if (sortBy.type) {
         //     options.sort = { [sortBy.type]: parseInt(sortBy.dir, 10) }
         // }
+        console.log('critiria', criteria)
         var stays = await collection.find(criteria, options).toArray()
         // if (filterBy.pageIdx !== undefined) {
         //     carCursor.skip(filterBy.pageIdx * PAGE_SIZE).limit(PAGE_SIZE)     
@@ -123,23 +124,57 @@ function _buildCriteria(filterBy) {
     // const { labels, region, available_dates, capacity, bathrooms, bedrooms, roomType, price, } = filterBy
 
     const criteria = {}
+    // console.log('Filtering by:', filterBy)
 
     // if (txt) {
     //     criteria.name = { $regex: txt, $options: 'i' }
     // }
 
-    if (filterBy.labels) {
-        // Ensure labels is always treated as an array
-        const labelsArray = Array.isArray(filterBy.labels) ? filterBy.labels : [filterBy.labels];
-        criteria.labels = { $in: labelsArray };
+    if (filterBy.country) {
+        criteria['loc.country'] = { $regex: new RegExp(filterBy.country, "i") }
     }
 
-    // if (status) {
-    // criteria.inStock = status === 'true' ? true : false
+    if (filterBy.region) {
+        criteria['loc.region'] = { $regex: new RegExp(filterBy.region, "i") };
+    }
+
+    if (filterBy.city) {
+        criteria['loc.city'] = { $regex: new RegExp(filterBy.country, "i") }
+    }
+
+    if (filterBy.roomType && filterBy.roomType !== 'Any type') {
+        criteria.roomType = filterBy.roomType;
+    }
+
+    // if (filterBy.checkIn && filterBy.checkOut) {
+    //     criteria['dates.checkIn'] = { $lte: new Date(filterBy.checkIn) }
+    //     criteria['dates.checkOut'] = { $gte: new Date(filterBy.checkOut) };
     // }
-    // if (status) {
-    // criteria.inStock = status === 'true' ? true : false
-    // }
+    const totalGuests = parseInt(filterBy.adults) + parseInt(filterBy.children) + parseInt(filterBy.infants) + parseInt(filterBy.pets)
+    if (!isNaN(totalGuests)) {
+        criteria.capacity = { $gte: totalGuests }
+    }
+    
+    if (filterBy.bedrooms && parseInt(filterBy.bedrooms) > 0) {
+        criteria.bedrooms = { $gte: parseInt(filterBy.bedrooms) }
+    }
+
+    if (filterBy.bathrooms && parseInt(filterBy.bathrooms) > 0) {
+        criteria.bathrooms = { $gte: parseInt(filterBy.bathrooms) }
+    }
+
+
+
+    if (filterBy.labels) {
+        const labelsArray = Array.isArray(filterBy.labels) ? filterBy.labels : [filterBy.labels]
+        criteria.labels = { $in: labelsArray };
+    }
+    if (filterBy.amenities) {
+        const amenitiesArray = Array.isArray(filterBy.amenities) ? filterBy.amenities : [filterBy.amenities]
+        criteria.amenities = { $in: amenitiesArray }
+    }
+
+
 
 
     return criteria
