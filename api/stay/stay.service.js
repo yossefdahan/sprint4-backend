@@ -7,10 +7,16 @@ import { utilService } from '../../services/util.service.js'
 
 // const PAGE_SIZE = 1000
 
-async function query() {
+async function query(filterBy = {}) {
+    console.log(filterBy);
     try {
-        const criteria = {}
 
+        const criteria = _buildCriteria(filterBy);
+        const collection = await dbService.getCollection('stay');
+        let options = {
+            limit: parseInt(filterBy.limit) || 1000,
+            skip: parseInt(filterBy.offset) || 0
+        }
         // if (filterBy.txt) {
         //     criteria.name = { $regex: filterBy.txt, $options: 'i' }
         // }
@@ -23,19 +29,19 @@ async function query() {
         //     criteria.labels = { $all: filterBy.labels.filter(l => l) }
         // }
 
-        const collection = await dbService.getCollection('stay')
+        // const collection = await dbService.getCollection('stay')
 
-        let options = {}
+        // let options = {}
 
         // if (sortBy.type) {
         //     options.sort = { [sortBy.type]: parseInt(sortBy.dir, 10) }
         // }
-        var staysToShow = await collection.find(criteria, options).sort(options.sort).toArray()
+        var stays = await collection.find(criteria, options).toArray()
         // if (filterBy.pageIdx !== undefined) {
         //     carCursor.skip(filterBy.pageIdx * PAGE_SIZE).limit(PAGE_SIZE)     
         // }
 
-        return staysToShow
+        return stays
     } catch (err) {
         loggerService.error('cannot find stays', err)
         throw err
@@ -114,38 +120,26 @@ async function removeStayMsg(stayId, msgId) {
 }
 
 function _buildCriteria(filterBy) {
-    const { labels, txt, status } = filterBy
+    // const { labels, region, available_dates, capacity, bathrooms, bedrooms, roomType, price, } = filterBy
 
     const criteria = {}
 
-    if (txt) {
-        criteria.name = { $regex: txt, $options: 'i' }
+    // if (txt) {
+    //     criteria.name = { $regex: txt, $options: 'i' }
+    // }
+
+    if (filterBy.labels) {
+        // Ensure labels is always treated as an array
+        const labelsArray = Array.isArray(filterBy.labels) ? filterBy.labels : [filterBy.labels];
+        criteria.labels = { $in: labelsArray };
     }
 
-    if (labels && labels.length) {
-        //every for objects labels
-        // const labelsCrit = labels.map(label => ({
-        //   labels: { $elemMatch: { title: label } },
-        // }))
-
-        //every for string labels
-        // const labelsCrit = labels.map((label) => ({
-        // 	labels: label,
-        // }))
-        // criteria.$and = labelsCrit
-        // criteria.labels =  { $all: labels }
-
-        // for some for string labels
-
-        criteria.labels = { $in: labels } //['Doll']
-    }
-
-    if (status) {
-        criteria.inStock = status === 'true' ? true : false
-    }
-    if (status) {
-        criteria.inStock = status === 'true' ? true : false
-    }
+    // if (status) {
+    // criteria.inStock = status === 'true' ? true : false
+    // }
+    // if (status) {
+    // criteria.inStock = status === 'true' ? true : false
+    // }
 
 
     return criteria
