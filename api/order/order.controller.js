@@ -34,7 +34,6 @@ export async function deleteOrder(req, res) {
 export async function addOrder(req, res) {
     const loggedinUser = authService.validateToken(req.cookies.loginToken)
     // var { loggedinUser } = req
-
     try {
         var order = req.body
         order.buyer = loggedinUser
