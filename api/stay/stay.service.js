@@ -129,6 +129,8 @@ function _buildCriteria(filterBy) {
     // if (txt) {
     //     criteria.name = { $regex: txt, $options: 'i' }
     // }
+    console.log(filterBy)
+
 
     if (filterBy.country) {
         criteria['loc.country'] = { $regex: new RegExp(filterBy.country, "i") }
@@ -146,17 +148,30 @@ function _buildCriteria(filterBy) {
         criteria.roomType = filterBy.roomType;
     }
 
-    // if (filterBy.checkIn && filterBy.checkOut) {
-    //     criteria['dates.checkIn'] = { $lte: new Date(filterBy.checkIn) }
-    //     criteria['dates.checkOut'] = { $gte: new Date(filterBy.checkOut) };
-    // }
+    const excludeDate = '2000-01-01';
+    if (filterBy.checkIn && filterBy.checkIn !== '0') {
+        criteria['dates.checkIn'] = { $lte: utilService.formatDate(filterBy.checkIn), $ne: excludeDate }
+    }
+    if (filterBy.checkOut && filterBy.checkOut !== '0') {
+        criteria['dates.checkOut'] = { $gte: utilService.formatDate(filterBy.checkOut), $ne: excludeDate }
+    }
     const totalGuests = parseInt(filterBy.adults) + parseInt(filterBy.children) + parseInt(filterBy.infants) + parseInt(filterBy.pets)
     if (!isNaN(totalGuests)) {
         criteria.capacity = { $gte: totalGuests }
     }
-    
+    if (filterBy.minPrice) {
+        criteria.price = criteria.price || {}
+        criteria.price.$gte = parseFloat(filterBy.minPrice)
+    }
+    if (filterBy.maxPrice) {
+        criteria.price = criteria.price || {}
+        criteria.price.$lte = parseFloat(filterBy.maxPrice)
+    }
     if (filterBy.bedrooms && parseInt(filterBy.bedrooms) > 0) {
         criteria.bedrooms = { $gte: parseInt(filterBy.bedrooms) }
+    }
+    if (filterBy.beds && parseInt(filterBy.beds) > 0) {
+        criteria.beds = { $gte: parseInt(filterBy.beds) }
     }
 
     if (filterBy.bathrooms && parseInt(filterBy.bathrooms) > 0) {
