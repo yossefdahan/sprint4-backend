@@ -8,7 +8,7 @@ export async function requireAuth(req, res, next) {
 
     const loggedinUser = authService.validateToken(req.cookies.loginToken)
     if (!loggedinUser) return res.status(401).send('Not Authenticated')
-    console.log("loggedinUser from middle", loggedinUser);
+
     req.loggedinUser = loggedinUser
     next()
 }

@@ -8,7 +8,7 @@ import { utilService } from '../../services/util.service.js'
 // const PAGE_SIZE = 1000
 
 async function query(filterBy = {}) {
-    console.log(filterBy);
+
     try {
 
         const criteria = _buildCriteria(filterBy);

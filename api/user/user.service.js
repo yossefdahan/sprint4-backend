@@ -49,7 +49,7 @@ async function getByUsername(username) {
     try {
         const collection = await dbService.getCollection('user')
         const user = await collection.findOne({ username })
-        console.log("israel", user);
+
         return user
     } catch (err) {
         loggerService.error(`while finding user ${username}`, err)

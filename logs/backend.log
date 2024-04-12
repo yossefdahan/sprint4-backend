@@ -679,6 +679,234 @@
 12.4.2024, 11:55:07 - INFO - Req was made | /
 12.4.2024, 12:05:30 - INFO - Req was made | /
 12.4.2024, 12:05:30 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:21:39 - INFO - Req was made | /
+12.4.2024, 12:21:39 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:21:39 - INFO - Req was made | /
+12.4.2024, 12:21:47 - INFO - Req was made | /
+12.4.2024, 12:21:48 - INFO - Req was made | /
+12.4.2024, 12:21:54 - INFO - Req was made | /
+12.4.2024, 12:21:56 - INFO - Req was made | /
+12.4.2024, 12:24:10 - INFO - Req was made | /
+12.4.2024, 12:24:20 - INFO - Req was made | /
+12.4.2024, 12:25:36 - INFO - Req was made | /
+12.4.2024, 12:25:43 - INFO - Req was made | /
+12.4.2024, 12:25:43 - INFO - Req was made | /
+12.4.2024, 12:25:46 - INFO - Req was made | /
+12.4.2024, 12:27:52 - INFO - server.js loaded...
+12.4.2024, 12:27:52 - INFO - Server is running on port: 3030
+12.4.2024, 12:27:56 - INFO - Req was made | /
+12.4.2024, 12:27:56 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:27:56 - INFO - Req was made | /
+12.4.2024, 12:28:15 - INFO - Req was made | /
+12.4.2024, 12:28:16 - INFO - Req was made | /
+12.4.2024, 12:30:26 - INFO - Req was made | /
+12.4.2024, 12:30:26 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:30:26 - INFO - Req was made | /
+12.4.2024, 12:30:32 - INFO - Req was made | /
+12.4.2024, 12:30:35 - INFO - Req was made | /
+12.4.2024, 12:30:38 - INFO - Req was made | /
+12.4.2024, 12:30:38 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:30:38 - INFO - Req was made | /
+12.4.2024, 12:30:54 - INFO - server.js loaded...
+12.4.2024, 12:30:54 - INFO - Server is running on port: 3030
+12.4.2024, 12:31:05 - INFO - Req was made | /
+12.4.2024, 12:31:06 - INFO - Req was made | /
+12.4.2024, 12:31:06 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:32:42 - INFO - Req was made | /
+12.4.2024, 12:32:42 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:32:42 - INFO - Req was made | /
+12.4.2024, 12:32:44 - INFO - Req was made | /
+12.4.2024, 12:32:44 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:45:24 - INFO - Req was made | /
+12.4.2024, 12:45:24 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:45:24 - INFO - Req was made | /
+12.4.2024, 12:46:28 - INFO - Req was made | /
+12.4.2024, 12:46:28 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:46:28 - INFO - Req was made | /
+12.4.2024, 12:47:44 - INFO - Req was made | /
+12.4.2024, 12:47:44 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:47:44 - INFO - Req was made | /
+12.4.2024, 12:47:54 - INFO - Req was made | /
+12.4.2024, 12:47:54 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:47:54 - INFO - Req was made | /
+12.4.2024, 12:48:24 - INFO - Req was made | /
+12.4.2024, 12:48:24 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:48:24 - INFO - Req was made | /
+12.4.2024, 12:48:48 - INFO - Req was made | /
+12.4.2024, 12:48:48 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:48:49 - INFO - Req was made | /
+12.4.2024, 12:50:49 - INFO - Req was made | /
+12.4.2024, 12:50:49 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:50:50 - INFO - Req was made | /
+12.4.2024, 12:51:34 - INFO - Req was made | /
+12.4.2024, 12:51:34 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:51:34 - INFO - Req was made | /
+12.4.2024, 12:52:10 - INFO - Req was made | /
+12.4.2024, 12:52:10 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:52:10 - INFO - Req was made | /
+12.4.2024, 12:52:15 - INFO - Req was made | /
+12.4.2024, 12:52:15 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:54:29 - INFO - Req was made | /
+12.4.2024, 12:54:30 - INFO - Req was made | /
+12.4.2024, 12:54:30 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:56:09 - INFO - Req was made | /
+12.4.2024, 12:56:09 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:56:09 - INFO - Req was made | /
+12.4.2024, 12:57:38 - INFO - Req was made | /
+12.4.2024, 12:57:38 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 12:57:39 - INFO - Req was made | /
+12.4.2024, 12:57:41 - INFO - Req was made | /
+12.4.2024, 12:57:41 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:00:29 - INFO - Req was made | /
+12.4.2024, 13:00:29 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:00:29 - INFO - Req was made | /
+12.4.2024, 13:00:55 - INFO - Req was made | /
+12.4.2024, 13:00:55 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:00:56 - INFO - Req was made | /
+12.4.2024, 13:01:33 - INFO - Req was made | /
+12.4.2024, 13:01:33 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:01:33 - INFO - Req was made | /
+12.4.2024, 13:02:55 - INFO - Req was made | /
+12.4.2024, 13:02:55 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:02:55 - INFO - Req was made | /
+12.4.2024, 13:03:16 - INFO - Req was made | /
+12.4.2024, 13:03:16 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:03:16 - INFO - Req was made | /
+12.4.2024, 13:07:19 - INFO - Req was made | /
+12.4.2024, 13:07:19 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:07:19 - INFO - Req was made | /
+12.4.2024, 13:08:29 - INFO - Req was made | /
+12.4.2024, 13:08:29 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:08:29 - INFO - Req was made | /
+12.4.2024, 13:11:45 - INFO - Req was made | /
+12.4.2024, 13:11:45 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:11:46 - INFO - Req was made | /
+12.4.2024, 13:12:17 - INFO - Req was made | /
+12.4.2024, 13:12:17 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:12:17 - INFO - Req was made | /
+12.4.2024, 13:13:18 - INFO - Req was made | /
+12.4.2024, 13:13:18 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:13:18 - INFO - Req was made | /
+12.4.2024, 13:13:20 - INFO - Req was made | /
+12.4.2024, 13:13:20 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:14:51 - INFO - Req was made | /
+12.4.2024, 13:14:51 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:14:52 - INFO - Req was made | /
+12.4.2024, 13:15:28 - INFO - Req was made | /
+12.4.2024, 13:15:28 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:15:29 - INFO - Req was made | /
+12.4.2024, 13:15:51 - INFO - Req was made | /
+12.4.2024, 13:17:57 - INFO - Req was made | /
+12.4.2024, 13:17:57 - INFO - Req was made | /
+12.4.2024, 13:17:57 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:18:41 - INFO - Req was made | /
+12.4.2024, 13:18:41 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:18:41 - INFO - Req was made | /
+12.4.2024, 13:18:50 - INFO - Req was made | /
+12.4.2024, 13:22:49 - INFO - Req was made | /
+12.4.2024, 13:22:49 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:22:50 - INFO - Req was made | /
+12.4.2024, 13:22:56 - INFO - Req was made | /
+12.4.2024, 13:22:56 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:22:56 - INFO - Req was made | /
+12.4.2024, 13:23:13 - INFO - Req was made | /
+12.4.2024, 13:23:13 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:23:13 - INFO - Req was made | /
+12.4.2024, 13:23:25 - INFO - Req was made | /
+12.4.2024, 13:23:25 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:23:25 - INFO - Req was made | /
+12.4.2024, 13:33:22 - INFO - Req was made | /
+12.4.2024, 13:33:22 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:33:22 - INFO - Req was made | /
+12.4.2024, 13:35:17 - INFO - Req was made | /
+12.4.2024, 13:35:17 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:35:17 - INFO - Req was made | /
+12.4.2024, 13:36:21 - INFO - Req was made | /
+12.4.2024, 13:36:21 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:36:21 - INFO - Req was made | /
+12.4.2024, 13:41:55 - INFO - Req was made | /
+12.4.2024, 13:41:55 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:41:56 - INFO - Req was made | /
+12.4.2024, 13:42:12 - INFO - Req was made | /
+12.4.2024, 13:42:12 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:42:12 - INFO - Req was made | /
+12.4.2024, 13:42:14 - INFO - Req was made | /
+12.4.2024, 13:42:14 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:42:14 - INFO - Req was made | /
+12.4.2024, 13:47:25 - INFO - Req was made | /
+12.4.2024, 13:47:25 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:47:26 - INFO - Req was made | /
+12.4.2024, 13:53:17 - INFO - Req was made | /
+12.4.2024, 13:53:17 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:53:17 - INFO - Req was made | /
+12.4.2024, 13:53:23 - INFO - Req was made | /
+12.4.2024, 13:53:23 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:53:23 - INFO - Req was made | /
+12.4.2024, 13:54:24 - INFO - Req was made | /
+12.4.2024, 13:54:24 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:54:24 - INFO - Req was made | /
+12.4.2024, 13:56:27 - INFO - Req was made | /
+12.4.2024, 13:56:27 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 13:56:28 - INFO - Req was made | /
+12.4.2024, 13:56:30 - INFO - Req was made | /
+12.4.2024, 13:56:30 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:00:31 - INFO - Req was made | /
+12.4.2024, 14:00:31 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:00:32 - INFO - Req was made | /
+12.4.2024, 14:01:08 - INFO - Req was made | /
+12.4.2024, 14:01:08 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:01:08 - INFO - Req was made | /
+12.4.2024, 14:08:14 - INFO - Req was made | /
+12.4.2024, 14:08:14 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:08:14 - INFO - Req was made | /
+12.4.2024, 14:14:20 - INFO - Req was made | /
+12.4.2024, 14:14:20 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:14:20 - INFO - Req was made | /
+12.4.2024, 14:14:41 - INFO - Req was made | /
+12.4.2024, 14:14:41 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:14:41 - INFO - Req was made | /
+12.4.2024, 14:15:06 - INFO - Req was made | /
+12.4.2024, 14:15:06 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:15:06 - INFO - Req was made | /
+12.4.2024, 14:18:52 - INFO - Req was made | /
+12.4.2024, 14:18:52 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:18:53 - INFO - Req was made | /
+12.4.2024, 14:18:55 - INFO - Req was made | /
+12.4.2024, 14:18:55 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:18:56 - INFO - Req was made | /
+12.4.2024, 14:19:12 - INFO - Req was made | /
+12.4.2024, 14:19:12 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:19:13 - INFO - Req was made | /
+12.4.2024, 14:21:03 - INFO - server.js loaded...
+12.4.2024, 14:21:03 - INFO - Server is running on port: 3030
+12.4.2024, 14:21:07 - INFO - Req was made | /
+12.4.2024, 14:21:07 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:21:08 - INFO - Req was made | /
+12.4.2024, 14:22:02 - INFO - server.js loaded...
+12.4.2024, 14:22:02 - INFO - Server is running on port: 3030
+12.4.2024, 14:22:05 - INFO - server.js loaded...
+12.4.2024, 14:22:05 - INFO - Server is running on port: 3030
+12.4.2024, 14:22:08 - INFO - server.js loaded...
+12.4.2024, 14:22:08 - INFO - Server is running on port: 3030
+12.4.2024, 14:22:31 - INFO - server.js loaded...
+12.4.2024, 14:22:31 - INFO - Server is running on port: 3030
+12.4.2024, 14:22:48 - INFO - Req was made | /
+12.4.2024, 14:22:48 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:22:48 - INFO - Req was made | /
+12.4.2024, 14:23:54 - INFO - Req was made | /
+12.4.2024, 14:23:54 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:23:54 - INFO - Req was made | /
+12.4.2024, 14:23:59 - INFO - Req was made | /
+12.4.2024, 14:23:59 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:23:59 - INFO - Req was made | /
+12.4.2024, 14:24:14 - INFO - Req was made | /
+12.4.2024, 14:24:14 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:24:14 - INFO - Req was made | /
+12.4.2024, 14:25:10 - INFO - Req was made | /
+12.4.2024, 14:25:10 - ERROR - Failed to get stays | TypeError: Cannot read properties of undefined (reading 'filterBy')
+12.4.2024, 14:25:10 - INFO - Req was made | /
+12.4.2024, 14:27:23 - INFO - server.js loaded...
+12.4.2024, 14:27:23 - INFO - Server is running on port: 3030
 12.4.2024, 12:14:46 - INFO - server.js loaded...
 12.4.2024, 12:14:46 - INFO - Server is running on port: 3030
 12.4.2024, 12:14:50 - INFO - Req was made | /
