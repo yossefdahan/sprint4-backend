@@ -84,9 +84,7 @@ async function add(stay) {
 async function update(stay) {
     try {
         const stayToSave = {
-            name: stay.name,
-            // importance: stay.importance
-            price: stay.price
+            likedByUsers: stay.likedByUsers
         }
         const collection = await dbService.getCollection('stay')
         await collection.updateOne({ _id: new ObjectId(stay._id) }, { $set: stayToSave })
