@@ -141,7 +141,7 @@ function _buildCriteria(filterBy) {
     }
 
     if (filterBy.city) {
-        criteria['loc.city'] = { $regex: new RegExp(filterBy.country, "i") }
+        criteria['loc.city'] = { $regex: new RegExp(filterBy.city, "i") }
     }
 
     if (filterBy.roomType && filterBy.roomType !== 'Any type') {
