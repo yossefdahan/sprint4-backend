@@ -39,7 +39,7 @@ async function signup(username, password, fullname, imgUrl) {
 
 function getLoginToken(user) {
     const userInfo = { _id: user._id, fullname: user.fullname, imgUrl: user.imgUrl }
-    console.log("userInfo^^^^^^^^^", user);
+
     return cryptr.encrypt(JSON.stringify(userInfo))
 }
 
@@ -47,7 +47,7 @@ function validateToken(loginToken) {
     try {
         const json = cryptr.decrypt(loginToken)
         const loggedinUser = JSON.parse(json)
-        console.log("loggedinUser~~~~~~", loggedinUser);
+
 
         return loggedinUser
     } catch (err) {

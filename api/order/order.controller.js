@@ -3,7 +3,6 @@ import { socketService } from '../../services/socket.service.js'
 import { userService } from '../user/user.service.js'
 import { authService } from '../auth/auth.service.js'
 import { orderService } from './order.service.js'
-import { stayService } from '../stay/stay.service.js'
 export async function getOrders(req, res) {
     try {
         const orders = await orderService.query(req.query)
@@ -15,6 +14,20 @@ export async function getOrders(req, res) {
     }
 }
 
+
+
+export async function updateOrder(req, res) {
+    try {
+        const order = req.body
+
+        const updatedOrder = await orderService.update(order)
+
+        res.json(updatedOrder)
+    } catch (err) {
+        loggerService.error('Failed to update order', err)
+        res.status(500).send({ err: 'Failed to update order' })
+    }
+}
 export async function deleteOrder(req, res) {
     try {
         const deletedCount = await orderService.remove(req.params.id)
@@ -34,26 +47,28 @@ export async function deleteOrder(req, res) {
 export async function addOrder(req, res) {
     const loggedinUser = authService.validateToken(req.cookies.loginToken)
     // var { loggedinUser } = req
-
     try {
         var order = req.body
+        // console.log(order)
+
         order.buyer = loggedinUser
+        console.log(order.buyer)
         order = await orderService.add(order)
-        // order.stay = await stayService.getById(order.stayId)
+        // order.order = await orderService.getById(order.orderId)
 
         // console.log(loggedinUser);
         // loggedinUser = await userService.getById(loggedinUser)
-        order.hostId = order.stay.host._id
+        // order.hostId = order.order.host._id
         // console.log(loggedinUser);
         // User info is saved also in the login-token, update it
         // const loginToken = authService.getLoginToken(loggedinUser)
         // res.cookie('loginToken', loginToken)
 
-        delete order.stayId
-        delete order.buyer
+        // delete order.orderId
+        // delete order.buyer
 
         // socketService.broadcast({ type: 'order-added', data: order, buyer: loggedinUser._id })
-        // socketService.emitToUser({ type: 'order-about-you', data: order, buyer: order.stay._id })
+        // socketService.emitToUser({ type: 'order-about-you', data: order, buyer: order.order._id })
 
         // const fullUser = await userService.getById(loggedinUser._id)
         // socketService.emitTo({ type: 'user-updated', data: fullUser, label: fullUser._id })

@@ -5,11 +5,11 @@ import { userService } from '../user/user.service.js'
 export async function getStays(req, res) {
 
     try {
-        // const { filterBy = {}, sortBy = {} } = req.query.params
+        const { filterBy } = req.query.params
         // loggerService.debug('Getting Stays', filterBy)
         // loggerService.debug('Getting Stays', sortBy)
 
-        const stays = await stayService.query()
+        const stays = await stayService.query(filterBy)
         res.json(stays)
     } catch (err) {
         loggerService.error('Failed to get stays', err)
