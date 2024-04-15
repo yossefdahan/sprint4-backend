@@ -35,10 +35,15 @@ export function setupSocketAPI(server) {
             socket.join('watching:' + userId)
 
         })
-        socket.on('order-status', userId => {
+        socket.on('set-user-socket', userId => {
             loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-            socket.userId = userId
-
+            socket.userId = userId._id
+            console.log(socket.userId)
+        })
+        socket.on('order-update', userId => {
+            loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+            socket.BuyerId = userId
+            console.log(socket.BuyerId)
         })
         socket.on('unset-user-socket', () => {
             loggerService.info(`Removing socket.userId for socket [id: ${socket.id}]`)
@@ -90,12 +95,15 @@ async function broadcast({ type, data, room = null, userId }) {
 
 async function _getUserSocket(userId) {
     const sockets = await _getAllSockets()
-    const socket = sockets.find(s => s.userId === userId)
+    console.log('userId', userId)
+    const socket = sockets.find(s => s.BuyerId === userId)
+    console.log('soket:', socket)
     return socket
 }
 async function _getAllSockets() {
     // return all Socket instances
     const sockets = await gIo.fetchSockets()
+    console.log('sokets:', sockets)
     return sockets
 }
 
