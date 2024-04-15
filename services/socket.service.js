@@ -38,6 +38,7 @@ export function setupSocketAPI(server) {
         socket.on('order-status', userId => {
             loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
+            
         })
         socket.on('unset-user-socket', () => {
             loggerService.info(`Removing socket.userId for socket [id: ${socket.id}]`)
