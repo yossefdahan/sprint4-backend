@@ -3,8 +3,8 @@ import { Server } from 'socket.io'
 
 var gIo = null
 
-export function setupSocketAPI(Server) {
-    gIo = new Server(Server, {
+export function setupSocketAPI(server) {
+    gIo = new Server(server, {
         cors: {
             origin: '*',
         }
