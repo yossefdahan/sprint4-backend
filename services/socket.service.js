@@ -35,7 +35,7 @@ export function setupSocketAPI(server) {
             socket.join('watching:' + userId)
 
         })
-        socket.on('set-user-socket', userId => {
+        socket.on('order-status', userId => {
             loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
         })
