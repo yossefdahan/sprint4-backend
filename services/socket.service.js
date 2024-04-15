@@ -42,8 +42,8 @@ export function setupSocketAPI(server) {
         })
         socket.on('order-update', userId => {
             loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-            socket.BuyerId = userId
-            console.log(socket.BuyerId)
+            socket.userId = userId
+            console.log(socket.userId)
         })
         socket.on('unset-user-socket', () => {
             loggerService.info(`Removing socket.userId for socket [id: ${socket.id}]`)
@@ -96,7 +96,7 @@ async function broadcast({ type, data, room = null, userId }) {
 async function _getUserSocket(userId) {
     const sockets = await _getAllSockets()
     console.log('userId', userId)
-    const socket = sockets.find(s => s.BuyerId === userId)
+    const socket = sockets.find(s => s.userId === userId)
     console.log('soket:', socket)
     return socket
 }
