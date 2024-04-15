@@ -19,6 +19,7 @@ export async function getOrders(req, res) {
 export async function updateOrder(req, res) {
     try {
         const order = req.body
+        console.log(order)
         const updatedOrder = await orderService.update(order)
         socketService.emitToUser({ type: 'order-status', data: order, userId: order.buyer._id })
         res.json(updatedOrder)
