@@ -19,9 +19,8 @@ export async function getOrders(req, res) {
 export async function updateOrder(req, res) {
     try {
         const order = req.body
-
         const updatedOrder = await orderService.update(order)
-
+        socketService.emitToUser({ type: 'order-status', data: 'your trip got status!', userId: order.buyer._id })
         res.json(updatedOrder)
     } catch (err) {
         loggerService.error('Failed to update order', err)
@@ -46,32 +45,11 @@ export async function deleteOrder(req, res) {
 
 export async function addOrder(req, res) {
     const loggedinUser = authService.validateToken(req.cookies.loginToken)
-    // var { loggedinUser } = req
     try {
         var order = req.body
-        // console.log(order)
-
         order.buyer = loggedinUser
         console.log(order.buyer)
         order = await orderService.add(order)
-        // order.order = await orderService.getById(order.orderId)
-
-        // console.log(loggedinUser);
-        // loggedinUser = await userService.getById(loggedinUser)
-        // order.hostId = order.order.host._id
-        // console.log(loggedinUser);
-        // User info is saved also in the login-token, update it
-        // const loginToken = authService.getLoginToken(loggedinUser)
-        // res.cookie('loginToken', loginToken)
-
-        // delete order.orderId
-        // delete order.buyer
-
-        // socketService.broadcast({ type: 'order-added', data: order, buyer: loggedinUser._id })
-        // socketService.emitToUser({ type: 'order-about-you', data: order, buyer: order.order._id })
-
-        // const fullUser = await userService.getById(loggedinUser._id)
-        // socketService.emitTo({ type: 'user-updated', data: fullUser, label: fullUser._id })
 
         res.send(order)
 

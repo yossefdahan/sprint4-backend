@@ -1,3 +1,4 @@
+import http from 'http'
 import express from 'express'
 import cookieParser from 'cookie-parser'
 import cors from 'cors'
@@ -7,10 +8,12 @@ import { fileURLToPath } from 'url'
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
+
 import { loggerService } from './services/logger.service.js'
 loggerService.info('server.js loaded...')
 
 const app = express()
+const server = http.createServer(app)
 
 // Express App Config
 app.use(cookieParser())
@@ -35,6 +38,8 @@ import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { stayRoutes } from './api/stay/stay.routes.js'
 import { orderRoutes } from './api/order/order.routes.js'
+import { setupSocketAPI } from './services/socket.service.js'
+
 
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
 app.all('*', setupAsyncLocalStorage)
@@ -43,7 +48,7 @@ app.use('/api/auth', authRoutes)//login //signup //logout
 app.use('/api/user', userRoutes)//getuser //getusers // 
 app.use('/api/stay', stayRoutes)//getstays //add
 app.use('/api/order', orderRoutes)
-
+setupSocketAPI(server)
 // Make every unmatched server-side-route fall back to index.html
 // So when requesting http://localhost:3030/index.html/car/123 it will still respond with
 // our SPA (single page app) (the index.html file) and allow vue-router to take it from there
@@ -53,7 +58,6 @@ app.get('/**', (req, res) => {
 })
 
 const port = process.env.PORT || 3030
-
-app.listen(port, () => {
+server.listen(port, () => {
     loggerService.info('Server is running on port: ' + port)
 })

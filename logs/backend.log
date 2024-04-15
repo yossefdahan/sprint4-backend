@@ -2065,3 +2065,651 @@
 13.4.2024, 14:21:48 - INFO - Req was made | /
 13.4.2024, 14:25:41 - INFO - Req was made | /
 13.4.2024, 14:29:27 - INFO - Req was made | /
+14.4.2024, 0:32:51 - INFO - server.js loaded...
+14.4.2024, 0:32:52 - INFO - Server is running on port: 3030
+14.4.2024, 0:33:07 - INFO - Req was made | /
+14.4.2024, 0:33:13 - INFO - Req was made | /
+14.4.2024, 0:33:59 - INFO - Req was made | /
+14.4.2024, 0:34:23 - INFO - Req was made | /
+14.4.2024, 0:38:50 - INFO - Req was made | /
+14.4.2024, 0:39:39 - INFO - Req was made | /
+14.4.2024, 0:39:44 - INFO - Req was made | /
+14.4.2024, 0:40:10 - DEBUG - auth.service - login with username: bengold1999
+14.4.2024, 0:40:10 - INFO - User login:  | {"_id":"661924f1cd0f0de405b53793","username":"bengold1999","fullname":"ben goldberger","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+14.4.2024, 0:40:14 - INFO - Req was made | /
+14.4.2024, 0:40:25 - INFO - Req was made | /
+14.4.2024, 0:40:47 - INFO - Req was made | /
+14.4.2024, 0:40:59 - INFO - Req was made | /
+14.4.2024, 0:41:32 - INFO - Req was made | /
+14.4.2024, 0:42:52 - INFO - Req was made | /
+14.4.2024, 0:46:59 - INFO - Req was made | /
+14.4.2024, 0:47:47 - INFO - Req was made | /
+14.4.2024, 0:48:00 - DEBUG - auth.service - login with username: bengold1999
+14.4.2024, 0:48:00 - INFO - User login:  | {"_id":"661924f1cd0f0de405b53793","username":"bengold1999","fullname":"ben goldberger","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+14.4.2024, 0:48:05 - INFO - Req was made | /
+14.4.2024, 0:48:11 - INFO - Req was made | /
+14.4.2024, 0:48:24 - INFO - Req was made | /
+14.4.2024, 0:53:26 - INFO - Req was made | /
+14.4.2024, 0:53:35 - INFO - Req was made | /
+14.4.2024, 0:53:49 - INFO - Req was made | /
+14.4.2024, 0:54:16 - INFO - Req was made | /
+14.4.2024, 0:54:41 - INFO - Req was made | /
+14.4.2024, 2:32:51 - INFO - server.js loaded...
+14.4.2024, 2:32:51 - INFO - Server is running on port: 3030
+14.4.2024, 2:33:13 - INFO - Req was made | /
+14.4.2024, 2:33:20 - DEBUG - auth.service - login with username: bengold1999
+14.4.2024, 2:33:21 - INFO - User login:  | {"_id":"661924f1cd0f0de405b53793","username":"bengold1999","fullname":"ben goldberger","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+14.4.2024, 2:33:36 - INFO - Req was made | /
+14.4.2024, 2:34:59 - INFO - Req was made | /
+14.4.2024, 2:35:02 - INFO - Req was made | /
+14.4.2024, 2:39:59 - INFO - Req was made | /
+14.4.2024, 2:40:12 - INFO - Req was made | /
+14.4.2024, 2:40:23 - INFO - Req was made | /
+14.4.2024, 2:40:26 - INFO - Req was made | /
+14.4.2024, 2:40:48 - INFO - Req was made | /
+14.4.2024, 2:42:00 - INFO - Req was made | /
+14.4.2024, 2:48:59 - INFO - Req was made | /
+14.4.2024, 2:49:02 - INFO - Req was made | /
+14.4.2024, 3:03:42 - INFO - Req was made | /
+14.4.2024, 12:50:35 - INFO - server.js loaded...
+14.4.2024, 12:50:35 - INFO - Server is running on port: 3030
+14.4.2024, 12:50:59 - INFO - Req was made | /
+14.4.2024, 12:55:52 - INFO - Req was made | /
+14.4.2024, 12:56:00 - INFO - Req was made | /
+14.4.2024, 12:56:04 - INFO - Req was made | /
+14.4.2024, 12:56:42 - DEBUG - auth.service - signup with username: kakak, fullname: kaka
+14.4.2024, 12:56:42 - DEBUG - auth.route - new account created: {"username":"kakak","password":"$2b$10$du8C0XRHvA4EuzlAbUk/1uHdhMst524SZC4RuU4YhiMOF7y59J.fK","fullname":"kaka","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","_id":"661ba85a3f7bb4532b853a7a"}
+14.4.2024, 12:56:42 - DEBUG - auth.service - login with username: kakak
+14.4.2024, 12:56:58 - INFO - Req was made | /
+14.4.2024, 12:57:23 - DEBUG - auth.service - signup with username: bob, fullname: bob
+14.4.2024, 12:57:23 - DEBUG - auth.route - new account created: {"username":"bob","password":"$2b$10$008tIU7X.T71V.RDtSqBvOh1R1pI3Y6V6qtY0PKihvECIRp7h24aC","fullname":"bob","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713088639/gsag7tlg3zujkjrzbgat.png","_id":"661ba8833f7bb4532b853a7b"}
+14.4.2024, 12:57:23 - DEBUG - auth.service - login with username: bob
+14.4.2024, 13:01:24 - INFO - Req was made | /
+14.4.2024, 13:01:43 - INFO - Req was made | /
+14.4.2024, 13:01:45 - INFO - Req was made | /
+14.4.2024, 13:01:47 - INFO - Req was made | /
+14.4.2024, 13:02:44 - INFO - Req was made | /
+14.4.2024, 13:02:56 - INFO - Req was made | /
+14.4.2024, 13:03:11 - INFO - Req was made | /
+14.4.2024, 13:03:21 - INFO - Req was made | /
+14.4.2024, 13:03:29 - INFO - Req was made | /
+14.4.2024, 13:03:39 - INFO - Req was made | /
+14.4.2024, 13:03:46 - INFO - Req was made | /
+14.4.2024, 13:03:57 - INFO - Req was made | /
+14.4.2024, 13:07:57 - INFO - Req was made | /
+14.4.2024, 13:08:13 - INFO - Req was made | /
+14.4.2024, 13:08:27 - INFO - Req was made | /
+14.4.2024, 13:08:29 - INFO - Req was made | /
+14.4.2024, 13:08:31 - INFO - Req was made | /
+14.4.2024, 13:08:34 - INFO - Req was made | /
+14.4.2024, 13:08:35 - INFO - Req was made | /
+14.4.2024, 13:08:37 - INFO - Req was made | /
+14.4.2024, 13:08:38 - INFO - Req was made | /
+14.4.2024, 13:08:45 - INFO - Req was made | /
+14.4.2024, 13:08:53 - INFO - Req was made | /
+14.4.2024, 13:09:02 - INFO - Req was made | /
+14.4.2024, 13:09:19 - INFO - Req was made | /
+14.4.2024, 13:10:25 - INFO - Req was made | /
+14.4.2024, 13:10:29 - INFO - Req was made | /:id
+14.4.2024, 13:10:30 - INFO - Req was made | /
+14.4.2024, 13:11:02 - INFO - Req was made | /
+14.4.2024, 13:11:16 - INFO - Req was made | /
+14.4.2024, 13:11:18 - INFO - Req was made | /
+14.4.2024, 13:11:23 - INFO - Req was made | /
+14.4.2024, 13:11:25 - INFO - Req was made | /
+14.4.2024, 13:11:50 - INFO - Req was made | /
+14.4.2024, 13:11:51 - INFO - Req was made | /
+14.4.2024, 13:12:03 - INFO - Req was made | /
+14.4.2024, 13:12:35 - INFO - Req was made | /
+14.4.2024, 13:12:36 - INFO - Req was made | /
+14.4.2024, 13:13:30 - INFO - Req was made | /
+14.4.2024, 13:13:31 - INFO - Req was made | /
+14.4.2024, 13:13:41 - INFO - Req was made | /
+14.4.2024, 13:13:50 - INFO - Req was made | /
+14.4.2024, 13:14:59 - INFO - Req was made | /
+14.4.2024, 13:15:00 - INFO - Req was made | /
+14.4.2024, 13:15:20 - INFO - Req was made | /
+14.4.2024, 13:15:27 - INFO - Req was made | /
+14.4.2024, 13:17:06 - INFO - Req was made | /
+14.4.2024, 13:17:19 - INFO - Req was made | /
+14.4.2024, 13:18:56 - INFO - Req was made | /
+14.4.2024, 13:19:00 - INFO - Req was made | /
+14.4.2024, 13:19:00 - INFO - Req was made | /
+14.4.2024, 13:19:00 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:19:00 - INFO - Req was made | /
+14.4.2024, 13:21:32 - INFO - Req was made | /
+14.4.2024, 13:21:36 - INFO - Req was made | /
+14.4.2024, 13:21:40 - INFO - Req was made | /
+14.4.2024, 13:21:40 - INFO - Req was made | /
+14.4.2024, 13:21:40 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:21:44 - INFO - Req was made | /
+14.4.2024, 13:21:48 - INFO - Req was made | /
+14.4.2024, 13:21:48 - INFO - Req was made | /
+14.4.2024, 13:21:48 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:22:00 - INFO - Req was made | /
+14.4.2024, 13:22:00 - INFO - Req was made | /
+14.4.2024, 13:22:00 - INFO - Req was made | /
+14.4.2024, 13:22:00 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:22:09 - INFO - Req was made | /
+14.4.2024, 13:22:49 - INFO - Req was made | /
+14.4.2024, 13:22:49 - INFO - Req was made | /
+14.4.2024, 13:22:49 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:23:17 - INFO - Req was made | /
+14.4.2024, 13:23:42 - INFO - Req was made | /
+14.4.2024, 13:23:42 - INFO - Req was made | /
+14.4.2024, 13:23:42 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:23:46 - INFO - Req was made | /
+14.4.2024, 13:23:46 - INFO - Req was made | /
+14.4.2024, 13:23:46 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:23:46 - INFO - Req was made | /
+14.4.2024, 13:24:23 - INFO - Req was made | /
+14.4.2024, 13:24:24 - INFO - Req was made | /
+14.4.2024, 13:24:24 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:24:24 - INFO - Req was made | /
+14.4.2024, 13:27:40 - INFO - Req was made | /
+14.4.2024, 13:27:40 - INFO - Req was made | /
+14.4.2024, 13:27:40 - INFO - Req was made | /
+14.4.2024, 13:27:40 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+14.4.2024, 13:28:28 - INFO - Req was made | /
+14.4.2024, 13:41:48 - INFO - Req was made | /
+14.4.2024, 13:42:47 - DEBUG - auth.service - signup with username: ben_goldberger, fullname: ben goldberger
+14.4.2024, 13:42:48 - DEBUG - auth.route - new account created: {"username":"ben_goldberger","password":"$2b$10$UurbkBmgxYjQ1a7i3sieoO1NyyO2y19d/N50WVXrRUSn2w8AId2IK","fullname":"ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713091365/fekvpdsrmdhch9xypqpm.jpg","_id":"661bb3283f7bb4532b853a7f"}
+14.4.2024, 13:42:48 - DEBUG - auth.service - login with username: ben_goldberger
+14.4.2024, 13:47:56 - INFO - Req was made | /
+14.4.2024, 13:47:57 - INFO - Req was made | /
+14.4.2024, 13:49:37 - INFO - Req was made | /
+14.4.2024, 13:49:41 - INFO - Req was made | /
+14.4.2024, 13:49:42 - INFO - Req was made | /
+14.4.2024, 13:50:12 - INFO - Req was made | /
+14.4.2024, 13:50:17 - INFO - Req was made | /
+14.4.2024, 13:50:18 - INFO - Req was made | /
+14.4.2024, 13:50:20 - INFO - Req was made | /
+14.4.2024, 13:50:24 - INFO - Req was made | /
+14.4.2024, 13:50:26 - INFO - Req was made | /
+14.4.2024, 13:50:44 - INFO - Req was made | /
+14.4.2024, 14:00:06 - INFO - Req was made | /
+14.4.2024, 17:50:03 - INFO - server.js loaded...
+14.4.2024, 17:50:03 - INFO - Server is running on port: 3030
+14.4.2024, 17:50:09 - INFO - Req was made | /
+14.4.2024, 17:50:18 - INFO - Req was made | /
+14.4.2024, 17:50:27 - INFO - Req was made | /
+14.4.2024, 17:52:23 - INFO - server.js loaded...
+14.4.2024, 17:52:23 - INFO - Server is running on port: 3030
+14.4.2024, 17:52:26 - INFO - Req was made | /
+14.4.2024, 17:52:27 - INFO - Req was made | /
+14.4.2024, 17:52:34 - INFO - Req was made | /
+14.4.2024, 17:52:42 - INFO - Req was made | /
+14.4.2024, 18:02:22 - INFO - Req was made | /
+14.4.2024, 20:02:45 - INFO - Req was made | /
+14.4.2024, 20:04:12 - INFO - Req was made | /
+14.4.2024, 20:04:22 - INFO - Req was made | /
+14.4.2024, 20:04:26 - INFO - Req was made | /
+14.4.2024, 20:04:29 - INFO - Req was made | /
+14.4.2024, 20:04:31 - INFO - Req was made | /
+14.4.2024, 20:09:06 - INFO - Req was made | /
+14.4.2024, 20:09:17 - INFO - Req was made | /
+14.4.2024, 20:09:29 - INFO - Req was made | /
+14.4.2024, 20:11:57 - INFO - Req was made | /
+14.4.2024, 20:11:59 - INFO - Req was made | /
+14.4.2024, 20:12:08 - INFO - Req was made | /
+14.4.2024, 20:12:10 - INFO - Req was made | /
+14.4.2024, 20:12:13 - INFO - Req was made | /
+14.4.2024, 20:12:32 - INFO - Req was made | /
+14.4.2024, 20:12:38 - INFO - Req was made | /
+14.4.2024, 20:12:41 - INFO - Req was made | /
+14.4.2024, 20:12:44 - INFO - Req was made | /
+14.4.2024, 20:16:14 - INFO - Req was made | /
+14.4.2024, 20:16:20 - INFO - Req was made | /
+14.4.2024, 20:16:28 - INFO - Req was made | /
+14.4.2024, 20:25:43 - INFO - Req was made | /
+14.4.2024, 20:25:48 - INFO - Req was made | /
+14.4.2024, 20:25:51 - INFO - Req was made | /
+14.4.2024, 20:25:59 - INFO - Req was made | /
+14.4.2024, 20:26:12 - INFO - Req was made | /
+14.4.2024, 20:26:13 - INFO - Req was made | /
+14.4.2024, 20:26:43 - INFO - Req was made | /
+14.4.2024, 20:26:53 - INFO - Req was made | /
+14.4.2024, 20:26:56 - INFO - Req was made | /
+14.4.2024, 20:26:57 - INFO - Req was made | /
+14.4.2024, 20:26:59 - INFO - Req was made | /
+14.4.2024, 20:27:06 - INFO - Req was made | /
+14.4.2024, 20:27:16 - INFO - Req was made | /
+14.4.2024, 20:27:19 - INFO - Req was made | /
+14.4.2024, 20:27:34 - INFO - Req was made | /
+14.4.2024, 20:27:35 - INFO - Req was made | /
+14.4.2024, 20:27:37 - INFO - Req was made | /
+14.4.2024, 20:28:15 - INFO - server.js loaded...
+14.4.2024, 20:28:15 - INFO - Server is running on port: 3030
+14.4.2024, 20:28:18 - INFO - Req was made | /
+14.4.2024, 20:28:35 - INFO - Req was made | /
+14.4.2024, 20:28:40 - INFO - Req was made | /
+14.4.2024, 20:28:47 - INFO - Req was made | /
+14.4.2024, 20:28:59 - INFO - Req was made | /
+14.4.2024, 20:29:02 - INFO - Req was made | /
+14.4.2024, 20:29:36 - INFO - Req was made | /
+14.4.2024, 20:29:42 - INFO - Req was made | /
+14.4.2024, 20:29:43 - INFO - Req was made | /
+14.4.2024, 20:29:50 - INFO - Req was made | /
+14.4.2024, 20:29:51 - INFO - Req was made | /
+14.4.2024, 20:30:01 - INFO - Req was made | /
+14.4.2024, 20:30:06 - INFO - Req was made | /
+14.4.2024, 20:30:07 - INFO - Req was made | /
+14.4.2024, 20:30:08 - INFO - Req was made | /
+14.4.2024, 20:30:20 - INFO - Req was made | /
+14.4.2024, 20:30:32 - INFO - Req was made | /
+14.4.2024, 20:30:39 - INFO - Req was made | /
+14.4.2024, 20:30:44 - INFO - Req was made | /
+14.4.2024, 20:30:52 - INFO - Req was made | /
+14.4.2024, 20:30:58 - INFO - Req was made | /
+14.4.2024, 20:31:26 - INFO - Req was made | /
+14.4.2024, 20:31:45 - INFO - Req was made | /
+14.4.2024, 20:31:52 - INFO - Req was made | /
+14.4.2024, 20:32:00 - INFO - Req was made | /
+14.4.2024, 20:34:22 - INFO - Req was made | /
+14.4.2024, 20:34:29 - INFO - Req was made | /
+14.4.2024, 20:34:31 - INFO - Req was made | /
+14.4.2024, 20:34:34 - INFO - Req was made | /
+14.4.2024, 20:34:38 - INFO - Req was made | /
+14.4.2024, 20:34:46 - INFO - Req was made | /
+14.4.2024, 20:34:49 - INFO - Req was made | /
+14.4.2024, 20:34:56 - INFO - Req was made | /
+14.4.2024, 20:43:25 - INFO - Req was made | /
+14.4.2024, 20:43:38 - INFO - Req was made | /
+14.4.2024, 20:46:24 - INFO - Req was made | /
+14.4.2024, 20:51:51 - INFO - Req was made | /
+14.4.2024, 20:51:51 - INFO - Req was made | /
+14.4.2024, 20:51:53 - INFO - Req was made | /
+14.4.2024, 20:52:02 - INFO - Req was made | /
+14.4.2024, 21:14:39 - INFO - Req was made | /
+14.4.2024, 21:14:45 - INFO - Req was made | /
+14.4.2024, 21:17:28 - INFO - Req was made | /
+14.4.2024, 21:21:42 - INFO - Req was made | /
+14.4.2024, 21:21:48 - INFO - Req was made | /
+15.4.2024, 11:29:19 - INFO - server.js loaded...
+15.4.2024, 11:29:19 - INFO - Server is running on port: 3030
+15.4.2024, 11:29:34 - INFO - Req was made | /
+15.4.2024, 11:32:24 - INFO - Req was made | /
+15.4.2024, 11:32:29 - INFO - Req was made | /
+15.4.2024, 11:32:36 - INFO - Req was made | /
+15.4.2024, 11:32:42 - INFO - Req was made | /
+15.4.2024, 11:32:44 - INFO - Req was made | /
+15.4.2024, 11:36:34 - INFO - Req was made | /
+15.4.2024, 11:41:50 - INFO - Req was made | /
+15.4.2024, 11:43:24 - INFO - Req was made | /
+15.4.2024, 11:43:31 - INFO - Req was made | /
+15.4.2024, 11:43:42 - INFO - Req was made | /
+15.4.2024, 11:44:02 - INFO - Req was made | /
+15.4.2024, 11:46:16 - INFO - Req was made | /
+15.4.2024, 11:46:31 - INFO - Req was made | /
+15.4.2024, 11:47:46 - INFO - Req was made | /
+15.4.2024, 11:49:48 - INFO - server.js loaded...
+15.4.2024, 11:49:48 - INFO - Server is running on port: 3030
+15.4.2024, 11:50:07 - INFO - Req was made | /
+15.4.2024, 11:51:58 - INFO - Req was made | /
+15.4.2024, 11:52:20 - INFO - Req was made | /
+15.4.2024, 11:53:20 - INFO - Req was made | /
+15.4.2024, 11:53:29 - INFO - Req was made | /
+15.4.2024, 11:54:20 - INFO - Req was made | /
+15.4.2024, 11:56:51 - INFO - Req was made | /
+15.4.2024, 11:57:09 - INFO - Req was made | /
+15.4.2024, 11:57:49 - INFO - Req was made | /
+15.4.2024, 11:58:01 - INFO - Req was made | /
+15.4.2024, 11:58:05 - INFO - Req was made | /
+15.4.2024, 11:58:26 - INFO - Req was made | /
+15.4.2024, 11:59:23 - INFO - Req was made | /
+15.4.2024, 11:59:38 - DEBUG - auth.service - login with username: bengold1999
+15.4.2024, 11:59:38 - INFO - User login:  | {"_id":"661924f1cd0f0de405b53793","username":"bengold1999","fullname":"ben goldberger","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+15.4.2024, 11:59:58 - INFO - Req was made | /
+15.4.2024, 12:11:52 - INFO - Req was made | /
+15.4.2024, 12:11:56 - INFO - Req was made | /
+15.4.2024, 12:11:56 - INFO - Req was made | /
+15.4.2024, 12:12:00 - INFO - Req was made | /
+15.4.2024, 12:25:17 - INFO - Req was made | /
+15.4.2024, 12:26:06 - INFO - Req was made | /
+15.4.2024, 12:28:45 - INFO - Req was made | /
+15.4.2024, 12:28:46 - INFO - Req was made | /
+15.4.2024, 12:32:35 - INFO - Req was made | /
+15.4.2024, 12:32:36 - INFO - Req was made | /
+15.4.2024, 12:32:41 - INFO - Req was made | /
+15.4.2024, 12:32:43 - INFO - Req was made | /
+15.4.2024, 12:34:06 - INFO - Req was made | /
+15.4.2024, 12:49:54 - INFO - Req was made | /
+15.4.2024, 12:50:05 - INFO - Req was made | /
+15.4.2024, 12:50:10 - DEBUG - auth.service - signup with username: try, fullname: try
+15.4.2024, 12:50:11 - DEBUG - auth.route - new account created: {"username":"try","password":"$2b$10$ysbC206q/3TMo/ZiTqqUleEb85G40h2jzqbCGbuSzNZAvehHE4DD.","fullname":"try","imgUrl":"","_id":"661cf8524d8de3dd04bff846"}
+15.4.2024, 12:50:11 - DEBUG - auth.service - login with username: try
+15.4.2024, 12:50:16 - INFO - Req was made | /
+15.4.2024, 12:50:36 - INFO - Req was made | /
+15.4.2024, 12:50:40 - INFO - Req was made | /
+15.4.2024, 12:50:51 - INFO - Req was made | /
+15.4.2024, 12:50:58 - DEBUG - auth.service - signup with username: sha, fullname: sha
+15.4.2024, 12:50:58 - DEBUG - auth.service - login with username: sha
+15.4.2024, 12:50:58 - DEBUG - auth.route - new account created: {"username":"sha","password":"$2b$10$0tdOEYFIpTr2aJyEP4rGT.23uNEy5Xgz6nyN3cTcBFG914c0Vk4me","fullname":"sha","_id":"661cf8824d8de3dd04bff847"}
+15.4.2024, 12:51:00 - INFO - Req was made | /
+15.4.2024, 12:51:22 - INFO - Req was made | /
+15.4.2024, 12:53:41 - INFO - Req was made | /
+15.4.2024, 12:53:51 - INFO - Req was made | /
+15.4.2024, 12:53:56 - INFO - Req was made | /
+15.4.2024, 12:53:59 - INFO - Req was made | /
+15.4.2024, 12:54:13 - DEBUG - auth.service - login with username: sha
+15.4.2024, 12:54:13 - INFO - User login:  | {"_id":"661cf8824d8de3dd04bff847","username":"sha","fullname":"sha","imgUrl":null}
+15.4.2024, 12:54:30 - INFO - Req was made | /
+15.4.2024, 12:54:32 - INFO - Req was made | /
+15.4.2024, 12:54:34 - INFO - Req was made | /
+15.4.2024, 12:54:45 - INFO - Req was made | /
+15.4.2024, 12:54:46 - INFO - Req was made | /
+15.4.2024, 12:54:48 - INFO - Req was made | /
+15.4.2024, 12:55:36 - INFO - Req was made | /
+15.4.2024, 12:55:39 - INFO - Req was made | /
+15.4.2024, 12:55:47 - INFO - Req was made | /
+15.4.2024, 12:55:49 - INFO - Req was made | /
+15.4.2024, 12:55:55 - INFO - Req was made | /
+15.4.2024, 12:55:58 - INFO - Req was made | /
+15.4.2024, 12:56:11 - INFO - Req was made | /
+15.4.2024, 12:56:29 - INFO - Req was made | /
+15.4.2024, 12:56:29 - INFO - Req was made | /
+15.4.2024, 12:57:10 - INFO - Req was made | /
+15.4.2024, 12:57:18 - INFO - Req was made | /
+15.4.2024, 12:57:20 - INFO - Req was made | /
+15.4.2024, 12:57:37 - INFO - Req was made | /
+15.4.2024, 12:58:20 - INFO - Req was made | /
+15.4.2024, 12:58:26 - DEBUG - auth.service - login with username: sha
+15.4.2024, 12:58:27 - INFO - User login:  | {"_id":"661cf8824d8de3dd04bff847","username":"sha","fullname":"sha","imgUrl":null}
+15.4.2024, 13:02:36 - INFO - Req was made | /
+15.4.2024, 13:02:40 - INFO - Req was made | /
+15.4.2024, 13:02:42 - INFO - Req was made | /
+15.4.2024, 13:02:55 - INFO - Req was made | /
+15.4.2024, 13:03:08 - DEBUG - auth.service - signup with username: gogo, fullname: gojo
+15.4.2024, 13:03:08 - DEBUG - auth.route - new account created: {"username":"gogo","password":"$2b$10$jV6Ifz6EonXRZeA0Os6EwuvfrTgGWWRDSRJNlpJuhqGsluDmuyI4a","fullname":"gojo","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713175385/d0fqbe6wwj3u4eib1h6i.png","_id":"661cfb5c4d8de3dd04bff848"}
+15.4.2024, 13:03:08 - DEBUG - auth.service - login with username: gogo
+15.4.2024, 13:03:10 - INFO - Req was made | /
+15.4.2024, 13:08:04 - INFO - Req was made | /
+15.4.2024, 13:08:33 - INFO - Req was made | /
+15.4.2024, 13:10:29 - INFO - Req was made | /
+15.4.2024, 13:12:35 - INFO - Req was made | /
+15.4.2024, 13:20:55 - INFO - Req was made | /
+15.4.2024, 13:20:58 - INFO - Req was made | /
+15.4.2024, 13:21:01 - INFO - Req was made | /
+15.4.2024, 13:21:35 - INFO - Req was made | /
+15.4.2024, 13:24:39 - INFO - Req was made | /
+15.4.2024, 13:25:00 - INFO - Req was made | /
+15.4.2024, 13:27:42 - INFO - Req was made | /
+15.4.2024, 13:28:12 - INFO - Req was made | /
+15.4.2024, 13:29:49 - INFO - Req was made | /
+15.4.2024, 14:05:53 - INFO - Req was made | /
+15.4.2024, 14:06:18 - INFO - Req was made | /
+15.4.2024, 14:08:30 - INFO - Req was made | /
+15.4.2024, 14:09:13 - INFO - Req was made | /
+15.4.2024, 14:18:55 - INFO - Req was made | /
+15.4.2024, 14:20:00 - INFO - Req was made | /
+15.4.2024, 14:21:03 - INFO - Req was made | /
+15.4.2024, 14:21:44 - INFO - Req was made | /
+15.4.2024, 14:25:10 - INFO - Req was made | /
+15.4.2024, 14:27:58 - INFO - Req was made | /
+15.4.2024, 14:31:08 - INFO - Req was made | /
+15.4.2024, 14:31:55 - INFO - Req was made | /
+15.4.2024, 14:33:32 - INFO - Req was made | /
+15.4.2024, 14:36:45 - INFO - Req was made | /
+15.4.2024, 14:39:10 - INFO - Req was made | /
+15.4.2024, 14:39:26 - INFO - Req was made | /
+15.4.2024, 14:40:26 - INFO - Req was made | /
+15.4.2024, 14:53:00 - INFO - Req was made | /
+15.4.2024, 14:53:10 - INFO - Req was made | /
+15.4.2024, 14:54:26 - INFO - Req was made | /
+15.4.2024, 14:56:48 - INFO - Req was made | /
+15.4.2024, 14:57:21 - INFO - Req was made | /
+15.4.2024, 15:00:36 - INFO - Req was made | /
+15.4.2024, 15:19:21 - INFO - Req was made | /
+15.4.2024, 15:20:40 - INFO - Req was made | /
+15.4.2024, 15:22:44 - INFO - Req was made | /
+15.4.2024, 17:09:41 - INFO - Req was made | /
+15.4.2024, 17:09:59 - INFO - Req was made | /
+15.4.2024, 17:10:22 - DEBUG - auth.service - signup with username: ben, fullname: Ben goldberger
+15.4.2024, 17:10:22 - DEBUG - auth.route - new account created: {"username":"ben","password":"$2b$10$r/IngPaEtdWOSH0F5npaz.AN7To2U4MKdc6kOtZlQ87H8iTDrAvKG","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png","_id":"661d354e4d8de3dd04bff849"}
+15.4.2024, 17:10:22 - DEBUG - auth.service - login with username: ben
+15.4.2024, 17:30:45 - INFO - Req was made | /
+15.4.2024, 17:30:56 - INFO - Req was made | /
+15.4.2024, 17:31:16 - INFO - Req was made | /
+15.4.2024, 17:33:41 - INFO - Req was made | /
+15.4.2024, 17:35:11 - INFO - server.js loaded...
+15.4.2024, 17:35:11 - INFO - Server is running on port: 3030
+15.4.2024, 17:36:55 - INFO - Req was made | /
+15.4.2024, 17:36:55 - INFO - New connected socket [id: bXRyeq3ipnW2DA9MAAAB]
+15.4.2024, 17:36:55 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: bXRyeq3ipnW2DA9MAAAB]
+15.4.2024, 17:39:57 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:39:58 - INFO - New connected socket [id: 3p-iJQ_GMtKfJfJAAAAD]
+15.4.2024, 17:39:58 - INFO - Req was made | /
+15.4.2024, 17:39:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 3p-iJQ_GMtKfJfJAAAAD]
+15.4.2024, 17:40:27 - INFO - Req was made | /
+15.4.2024, 17:40:30 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:40:30 - INFO - New connected socket [id: ewD5ANwpngDFW15iAAAF]
+15.4.2024, 17:40:30 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: ewD5ANwpngDFW15iAAAF]
+15.4.2024, 17:40:30 - INFO - Req was made | /
+15.4.2024, 17:40:34 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:40:34 - INFO - New connected socket [id: qVY2PZ2S_95mOHX1AAAH]
+15.4.2024, 17:40:34 - INFO - Req was made | /
+15.4.2024, 17:40:34 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: qVY2PZ2S_95mOHX1AAAH]
+15.4.2024, 17:40:47 - INFO - Removing socket.userId for socket [id: qVY2PZ2S_95mOHX1AAAH]
+15.4.2024, 17:40:55 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:40:55 - INFO - New connected socket [id: QFzBNsJJDIJaMS6gAAAJ]
+15.4.2024, 17:40:55 - INFO - Req was made | /
+15.4.2024, 17:40:55 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: QFzBNsJJDIJaMS6gAAAJ]
+15.4.2024, 17:41:33 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:41:33 - INFO - New connected socket [id: w4Bg0ZxGUwVy2dY6AAAL]
+15.4.2024, 17:41:33 - INFO - Req was made | /
+15.4.2024, 17:41:50 - DEBUG - auth.service - login with username: bengold1999
+15.4.2024, 17:41:51 - INFO - User login:  | {"_id":"661924f1cd0f0de405b53793","username":"bengold1999","fullname":"ben goldberger","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+15.4.2024, 17:41:51 - INFO - Setting socket.userId = [object Object] for socket [id: w4Bg0ZxGUwVy2dY6AAAL]
+15.4.2024, 17:42:05 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:42:06 - INFO - New connected socket [id: tP8n2MMMkF8g2oemAAAN]
+15.4.2024, 17:42:06 - INFO - Req was made | /
+15.4.2024, 17:42:06 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: tP8n2MMMkF8g2oemAAAN]
+15.4.2024, 17:45:55 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:45:56 - INFO - New connected socket [id: qK2UkVGENxYV0iwoAAAP]
+15.4.2024, 17:45:56 - INFO - Req was made | /
+15.4.2024, 17:45:56 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: qK2UkVGENxYV0iwoAAAP]
+15.4.2024, 17:50:11 - INFO - Req was made | /
+15.4.2024, 17:50:14 - INFO - Req was made | /
+15.4.2024, 17:51:02 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:51:03 - INFO - New connected socket [id: 6gZ5DLdim1ClA2nMAAAR]
+15.4.2024, 17:51:03 - INFO - Req was made | /
+15.4.2024, 17:51:03 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: 6gZ5DLdim1ClA2nMAAAR]
+15.4.2024, 17:51:06 - INFO - Req was made | /
+15.4.2024, 17:51:11 - INFO - New connected socket [id: Zb5uAeIad3Cv_1wuAAAT]
+15.4.2024, 17:51:15 - INFO - New connected socket [id: WopOkqZvA9MFPfZIAAAV]
+15.4.2024, 17:51:15 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:51:15 - INFO - Req was made | /
+15.4.2024, 17:51:26 - DEBUG - auth.service - login with username: bengold1999
+15.4.2024, 17:51:26 - INFO - User login:  | {"_id":"661924f1cd0f0de405b53793","username":"bengold1999","fullname":"ben goldberger","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+15.4.2024, 17:51:26 - INFO - Setting socket.userId = [object Object] for socket [id: WopOkqZvA9MFPfZIAAAV]
+15.4.2024, 17:51:30 - INFO - Removing socket.userId for socket [id: WopOkqZvA9MFPfZIAAAV]
+15.4.2024, 17:51:38 - DEBUG - auth.service - login with username: ben
+15.4.2024, 17:51:38 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+15.4.2024, 17:51:38 - INFO - Setting socket.userId = [object Object] for socket [id: WopOkqZvA9MFPfZIAAAV]
+15.4.2024, 17:51:53 - INFO - Req was made | /
+15.4.2024, 17:51:56 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:51:56 - INFO - New connected socket [id: hQyf_FfE7GumXdGqAAAX]
+15.4.2024, 17:51:57 - INFO - Req was made | /
+15.4.2024, 17:51:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: hQyf_FfE7GumXdGqAAAX]
+15.4.2024, 17:51:57 - INFO - Req was made | /
+15.4.2024, 17:51:57 - INFO - Req was made | /
+15.4.2024, 17:51:57 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:52:00 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:52:01 - INFO - New connected socket [id: wWTEk44SK5WfB03ZAAAZ]
+15.4.2024, 17:52:01 - INFO - Req was made | /
+15.4.2024, 17:52:01 - INFO - Req was made | /
+15.4.2024, 17:52:01 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: wWTEk44SK5WfB03ZAAAZ]
+15.4.2024, 17:52:04 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:52:04 - INFO - New connected socket [id: VMyaom0HVzvv5CH-AAAb]
+15.4.2024, 17:52:04 - INFO - Req was made | /
+15.4.2024, 17:52:04 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: VMyaom0HVzvv5CH-AAAb]
+15.4.2024, 17:52:07 - INFO - Req was made | /
+15.4.2024, 17:52:07 - INFO - Req was made | /
+15.4.2024, 17:52:07 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:52:10 - INFO - Req was made | /:id
+15.4.2024, 17:52:10 - INFO - Req was made | /
+15.4.2024, 17:52:23 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:52:23 - INFO - New connected socket [id: wo13gwSfrB14-dCaAAAd]
+15.4.2024, 17:52:23 - INFO - Req was made | /
+15.4.2024, 17:52:23 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: wo13gwSfrB14-dCaAAAd]
+15.4.2024, 17:52:23 - INFO - Req was made | /
+15.4.2024, 17:52:23 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:52:23 - INFO - Req was made | /
+15.4.2024, 17:52:47 - INFO - server.js loaded...
+15.4.2024, 17:52:47 - INFO - Server is running on port: 3030
+15.4.2024, 17:52:48 - INFO - New connected socket [id: u0NA2DJvRjALMn4BAAAB]
+15.4.2024, 17:52:48 - INFO - New connected socket [id: BzDNi_6YclyCqvxgAAAD]
+15.4.2024, 17:52:57 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:52:57 - INFO - New connected socket [id: lTHTkhE1xjfWqXISAAAF]
+15.4.2024, 17:52:57 - INFO - Req was made | /
+15.4.2024, 17:52:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: lTHTkhE1xjfWqXISAAAF]
+15.4.2024, 17:53:01 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:53:01 - INFO - New connected socket [id: Aa0EYy684elkcHFsAAAH]
+15.4.2024, 17:53:01 - INFO - Req was made | /
+15.4.2024, 17:53:01 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: Aa0EYy684elkcHFsAAAH]
+15.4.2024, 17:55:02 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:55:02 - INFO - New connected socket [id: oamSFcFTYVK-Z4Y7AAAJ]
+15.4.2024, 17:55:02 - INFO - Req was made | /
+15.4.2024, 17:55:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: oamSFcFTYVK-Z4Y7AAAJ]
+15.4.2024, 17:55:32 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:55:33 - INFO - New connected socket [id: xt-PNZfziK1YYXfyAAAL]
+15.4.2024, 17:55:33 - INFO - Req was made | /
+15.4.2024, 17:55:33 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: xt-PNZfziK1YYXfyAAAL]
+15.4.2024, 17:55:35 - INFO - Req was made | /
+15.4.2024, 17:55:47 - INFO - Req was made | /
+15.4.2024, 17:55:50 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:55:50 - INFO - New connected socket [id: NON-LWJ3dXR5-0TNAAAN]
+15.4.2024, 17:55:50 - INFO - Req was made | /
+15.4.2024, 17:55:50 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: NON-LWJ3dXR5-0TNAAAN]
+15.4.2024, 17:55:50 - INFO - Req was made | /
+15.4.2024, 17:55:50 - INFO - Req was made | /
+15.4.2024, 17:55:50 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:55:56 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:55:56 - INFO - New connected socket [id: slSIeThelHbaAKSbAAAP]
+15.4.2024, 17:55:56 - INFO - Req was made | /
+15.4.2024, 17:55:56 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: slSIeThelHbaAKSbAAAP]
+15.4.2024, 17:55:56 - INFO - Req was made | /
+15.4.2024, 17:55:58 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:55:59 - INFO - New connected socket [id: 0RMGL4BhI76rgnRiAAAR]
+15.4.2024, 17:55:59 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: 0RMGL4BhI76rgnRiAAAR]
+15.4.2024, 17:55:59 - INFO - Req was made | /
+15.4.2024, 17:55:59 - INFO - Req was made | /
+15.4.2024, 17:56:00 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:56:01 - INFO - New connected socket [id: A4frgpXOBoVe_dZRAAAT]
+15.4.2024, 17:56:01 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: A4frgpXOBoVe_dZRAAAT]
+15.4.2024, 17:56:01 - INFO - Req was made | /
+15.4.2024, 17:56:01 - INFO - Req was made | /
+15.4.2024, 17:56:05 - INFO - Req was made | /
+15.4.2024, 17:56:13 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:56:13 - INFO - New connected socket [id: 3SZnlgWZrdyOsWG_AAAV]
+15.4.2024, 17:56:13 - INFO - Req was made | /
+15.4.2024, 17:56:13 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 3SZnlgWZrdyOsWG_AAAV]
+15.4.2024, 17:56:34 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:56:34 - INFO - New connected socket [id: so16un7gkWeTaNyGAAAX]
+15.4.2024, 17:56:34 - INFO - Req was made | /
+15.4.2024, 17:56:34 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: so16un7gkWeTaNyGAAAX]
+15.4.2024, 17:56:45 - INFO - Req was made | /
+15.4.2024, 17:56:49 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:56:49 - INFO - New connected socket [id: 75BoGupieD9qsgnWAAAZ]
+15.4.2024, 17:56:49 - INFO - Req was made | /
+15.4.2024, 17:56:49 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 75BoGupieD9qsgnWAAAZ]
+15.4.2024, 17:56:49 - INFO - Req was made | /
+15.4.2024, 17:56:49 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:56:49 - INFO - Req was made | /
+15.4.2024, 17:56:51 - INFO - Req was made | /
+15.4.2024, 17:56:53 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:56:53 - INFO - New connected socket [id: PWhy0H3gSFoXWMZOAAAb]
+15.4.2024, 17:56:53 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: PWhy0H3gSFoXWMZOAAAb]
+15.4.2024, 17:56:53 - INFO - Req was made | /
+15.4.2024, 17:56:53 - INFO - Req was made | /
+15.4.2024, 17:57:13 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:57:13 - INFO - New connected socket [id: b2XICROvxoubqW_dAAAd]
+15.4.2024, 17:57:13 - INFO - Req was made | /
+15.4.2024, 17:57:13 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: b2XICROvxoubqW_dAAAd]
+15.4.2024, 17:57:13 - INFO - Req was made | /
+15.4.2024, 17:57:23 - INFO - Req was made | /
+15.4.2024, 17:57:28 - INFO - Req was made | /
+15.4.2024, 17:57:28 - INFO - Req was made | /
+15.4.2024, 17:57:28 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:57:28 - INFO - Req was made | /
+15.4.2024, 17:57:32 - INFO - New connected socket [id: amBlQjRoS2V4VFxyAAAf]
+15.4.2024, 17:57:32 - INFO - Req was made | /
+15.4.2024, 17:57:32 - INFO - Req was made | /
+15.4.2024, 17:57:32 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:57:32 - INFO - Req was made | /
+15.4.2024, 17:57:44 - DEBUG - auth.service - login with username: ben
+15.4.2024, 17:57:44 - ERROR - Failed to Login Error: Invalid username or password
+15.4.2024, 17:57:44 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:57:44 - INFO - New connected socket [id: vAc0tJgp_HYXfL_aAAAh]
+15.4.2024, 17:57:44 - INFO - Req was made | /
+15.4.2024, 17:57:53 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:57:55 - INFO - Req was made | /
+15.4.2024, 17:57:56 - INFO - Req was made | /:id
+15.4.2024, 17:57:57 - INFO - Emiting event: order-status to user: 661d354e4d8de3dd04bff849 socket [id: 75BoGupieD9qsgnWAAAZ]
+15.4.2024, 17:57:57 - INFO - Req was made | /
+15.4.2024, 17:58:10 - INFO - Req was made | /
+15.4.2024, 17:58:10 - INFO - Req was made | /
+15.4.2024, 17:58:10 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:58:10 - INFO - Req was made | /
+15.4.2024, 17:58:15 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:58:15 - INFO - New connected socket [id: 3YB0roWKTSNZo0M6AAAj]
+15.4.2024, 17:58:15 - INFO - Req was made | /
+15.4.2024, 17:58:15 - INFO - Setting socket.userId = 661924f1cd0f0de405b53793 for socket [id: 3YB0roWKTSNZo0M6AAAj]
+15.4.2024, 17:58:15 - INFO - Req was made | /
+15.4.2024, 17:58:15 - INFO - Req was made | /
+15.4.2024, 17:58:15 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:58:21 - INFO - Removing socket.userId for socket [id: 3YB0roWKTSNZo0M6AAAj]
+15.4.2024, 17:58:38 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:58:38 - INFO - New connected socket [id: FC1QvVswRvFxFOoGAAAl]
+15.4.2024, 17:58:38 - INFO - Req was made | /
+15.4.2024, 17:58:38 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: FC1QvVswRvFxFOoGAAAl]
+15.4.2024, 17:58:38 - INFO - Req was made | /
+15.4.2024, 17:58:38 - INFO - Req was made | /
+15.4.2024, 17:58:38 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:58:41 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:58:41 - INFO - New connected socket [id: Lw1yb_Kd54wiTE-6AAAn]
+15.4.2024, 17:58:41 - INFO - Req was made | /
+15.4.2024, 17:58:41 - INFO - Req was made | /
+15.4.2024, 17:58:41 - INFO - Req was made | /
+15.4.2024, 17:58:41 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:58:41 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Lw1yb_Kd54wiTE-6AAAn]
+15.4.2024, 17:58:45 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:58:46 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:58:46 - INFO - New connected socket [id: nHXR2XT8u2oNNYKEAAAp]
+15.4.2024, 17:58:46 - INFO - Req was made | /
+15.4.2024, 17:58:46 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: nHXR2XT8u2oNNYKEAAAp]
+15.4.2024, 17:58:46 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:58:46 - INFO - Req was made | /
+15.4.2024, 17:58:46 - INFO - Req was made | /
+15.4.2024, 17:58:47 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:58:47 - INFO - New connected socket [id: OownQVv0UCJ4jxgcAAAr]
+15.4.2024, 17:58:47 - INFO - Req was made | /
+15.4.2024, 17:58:47 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+15.4.2024, 17:58:47 - INFO - Req was made | /
+15.4.2024, 17:58:47 - INFO - Req was made | /
+15.4.2024, 17:58:47 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: OownQVv0UCJ4jxgcAAAr]
+15.4.2024, 17:58:53 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 17:58:53 - INFO - New connected socket [id: beTsjJKqG9rCD0c3AAAt]
+15.4.2024, 17:58:53 - INFO - Req was made | /
+15.4.2024, 17:58:53 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: beTsjJKqG9rCD0c3AAAt]
+15.4.2024, 17:58:56 - INFO - Req was made | /
+15.4.2024, 18:00:23 - INFO - Req was made | /:id
+15.4.2024, 18:00:23 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 18:00:23 - INFO - New connected socket [id: Oq_BB8kr1Ry5yjiLAAAv]
+15.4.2024, 18:00:23 - INFO - Req was made | /
+15.4.2024, 18:00:39 - DEBUG - auth.service - login with username: bengold1999
+15.4.2024, 18:00:39 - INFO - User login:  | {"_id":"661924f1cd0f0de405b53793","username":"bengold1999","fullname":"ben goldberger","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"}
+15.4.2024, 18:00:39 - INFO - Setting socket.userId = [object Object] for socket [id: Oq_BB8kr1Ry5yjiLAAAv]
+15.4.2024, 18:00:41 - INFO - Removing socket.userId for socket [id: Oq_BB8kr1Ry5yjiLAAAv]
+15.4.2024, 18:00:51 - DEBUG - auth.service - login with username: ben
+15.4.2024, 18:00:52 - ERROR - Failed to Login Error: Invalid username or password
+15.4.2024, 18:00:52 - INFO - Socket disconnected [id: undefined]
+15.4.2024, 18:00:52 - INFO - New connected socket [id: 1dnD8gda9UJ2sZLJAAAx]
+15.4.2024, 18:00:52 - INFO - Req was made | /
+15.4.2024, 18:01:00 - DEBUG - auth.service - login with username: ben
+15.4.2024, 18:01:00 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+15.4.2024, 18:01:00 - INFO - Setting socket.userId = [object Object] for socket [id: 1dnD8gda9UJ2sZLJAAAx]
+15.4.2024, 18:01:03 - INFO - Req was made | /
+15.4.2024, 18:01:06 - INFO - Req was made | /:id
+15.4.2024, 18:01:07 - INFO - No active socket for user: 6617ddfa358264cf954e1abe
+15.4.2024, 18:01:07 - INFO - Req was made | /

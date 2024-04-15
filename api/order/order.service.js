@@ -11,53 +11,6 @@ async function query(filterBy = {}) {
         const collection = await dbService.getCollection('order')
         const orders = await collection.find(criteria).toArray()
 
-        // var orders = await collection.aggregate([
-        //     {
-        //         $match: criteria
-        //     },
-        //     {
-        //         $lookup:
-        //         {
-        //             localField: 'buyer',
-        //             from: 'user',
-        //             foreignField: '_id',
-        //             as: 'byUser'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$byUser'
-        //     },
-        //     {
-        //         $lookup:
-        //         {
-        //             localField: 'hostId',
-        //             from: 'toy',
-        //             foreignField: '_id',
-        //             as: 'toy'
-        //         }
-        //     },
-        //     {
-        //         $unwind: '$toy'
-        //     },
-        //     {
-        //         $project: {
-        //             _id: true,
-        //             txt: 1,
-        //             byUser: { _id: 1, fullname: 1 },
-        //             toy: { _id: 1, name: 1, price: 1 },
-        //         },
-        //     },
-        // ]).toArray()
-
-        // orders = orders.map(order => {
-        //     order.byUser = { _id: order.byUser._id, fullname: order.byUser.fullname }
-        //     order.toy = { _id: order.toy._id, name: order.toy.name, price: order.toy.price }
-        //     delete order.buyer
-        //     delete order.hostId
-
-        //     return order
-        // })
-
         return orders
     } catch (err) {
         loggerService.error('cannot find orders', err)
@@ -103,8 +56,7 @@ async function add(order) {
         order.stay._id = new ObjectId(order.stay._id)
         const orderToAdd = {
             ...order,
-            hostId: new ObjectId(order.hostId),
-            // txt: order.txt
+            hostId: new ObjectId(order.hostId)
         }
         console.log(orderToAdd)
         const collection = await dbService.getCollection('order')
