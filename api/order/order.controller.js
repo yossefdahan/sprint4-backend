@@ -20,7 +20,7 @@ export async function updateOrder(req, res) {
     try {
         const order = req.body
         const updatedOrder = await orderService.update(order)
-        socketService.broadcast({ type: 'order-status', data: order, userId: order.buyer._id })
+        socketService.emitToUser({ type: 'order-status', data: order, userId: order.buyer._id })
         res.json(updatedOrder)
     } catch (err) {
         loggerService.error('Failed to update order', err)
