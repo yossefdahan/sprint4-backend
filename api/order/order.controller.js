@@ -19,9 +19,9 @@ export async function getOrders(req, res) {
 export async function updateOrder(req, res) {
     try {
         const order = req.body
-        console.log(order)
+        // console.log(order)
         const updatedOrder = await orderService.update(order)
-        socketService.emitToUser({ type: 'order-status', data: "trip's status change!", userId: order.buyer._id })
+        socketService.emitToUser({ type: 'order-status', data: updatedOrder, userId: order.buyer._id })
         res.json(updatedOrder)
     } catch (err) {
         loggerService.error('Failed to update order', err)
@@ -49,7 +49,7 @@ export async function addOrder(req, res) {
     try {
         var order = req.body
         order.buyer = loggedinUser
-        console.log(order.buyer)
+        // console.log(order.buyer)
         order = await orderService.add(order)
 
         res.send(order)

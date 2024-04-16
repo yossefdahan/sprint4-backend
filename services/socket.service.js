@@ -37,13 +37,13 @@ export function setupSocketAPI(server) {
         })
         socket.on('set-user-socket', userId => {
             loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+            console.log('check login',userId._id)
             socket.userId = userId._id
-            console.log(socket.userId)
         })
         socket.on('order-update', userId => {
+            console.log('userId 16.4',userId)
             loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
-            console.log(socket.userId)
         })
         socket.on('unset-user-socket', () => {
             loggerService.info(`Removing socket.userId for socket [id: ${socket.id}]`)
@@ -95,25 +95,25 @@ async function broadcast({ type, data, room = null, userId }) {
 
 async function _getUserSocket(userId) {
     const sockets = await _getAllSockets()
-    console.log('userId', userId)
+    // console.log('userId', userId)
     const socket = sockets.find(s => s.userId === userId)
-    console.log('soket:', socket)
+    // console.log('soket:', socket)
     return socket
 }
 async function _getAllSockets() {
     // return all Socket instances
     const sockets = await gIo.fetchSockets()
-    console.log('sokets:', sockets)
+    // console.log('sokets:', sockets)
     return sockets
 }
 
 async function _printSockets() {
     const sockets = await _getAllSockets()
-    console.log(`Sockets: (count: ${sockets.length}):`)
+    // console.log(`Sockets: (count: ${sockets.length}):`)
     sockets.forEach(_printSocket)
 }
 function _printSocket(socket) {
-    console.log(`Socket - socketId: ${socket.id} userId: ${socket.userId}`)
+    // console.log(`Socket - socketId: ${socket.id} userId: ${socket.userId}`)
 }
 
 export const socketService = {

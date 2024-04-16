@@ -36,7 +36,7 @@ async function query(filterBy = {}) {
         // if (sortBy.type) {
         //     options.sort = { [sortBy.type]: parseInt(sortBy.dir, 10) }
         // }
-        console.log('critiria', criteria)
+        // console.log('critiria', criteria)
         var stays = await collection.find(criteria, options).toArray()
         // if (filterBy.pageIdx !== undefined) {
         //     carCursor.skip(filterBy.pageIdx * PAGE_SIZE).limit(PAGE_SIZE)     
@@ -127,7 +127,7 @@ function _buildCriteria(filterBy) {
     // if (txt) {
     //     criteria.name = { $regex: txt, $options: 'i' }
     // }
-    console.log(filterBy)
+    // console.log(filterBy)
 
 
     if (filterBy.country) {

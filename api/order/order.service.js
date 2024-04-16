@@ -58,7 +58,7 @@ async function add(order) {
             ...order,
             hostId: new ObjectId(order.hostId)
         }
-        console.log(orderToAdd)
+        // console.log(orderToAdd)
         const collection = await dbService.getCollection('order')
         await collection.insertOne(orderToAdd)
         return orderToAdd
