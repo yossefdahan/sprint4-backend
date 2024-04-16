@@ -36,15 +36,17 @@ export function setupSocketAPI(server) {
 
         })
         socket.on('set-user-socket', userId => {
+            console.log('userI**********d:', userId)
             loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-            console.log('check login',userId._id)
-            socket.userId = userId._id
-        })
-        socket.on('order-update', userId => {
-            console.log('userId 16.4',userId)
-            loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+            console.log('check login', userId)
             socket.userId = userId
+            console.log('socket.userId:', socket.userId)
         })
+        // socket.on('order-update', userId => {
+        //     console.log('userId 16.4',userId)
+        //     loggerService.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+        //     socket.userId = userId
+        // })
         socket.on('unset-user-socket', () => {
             loggerService.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
@@ -96,8 +98,11 @@ async function broadcast({ type, data, room = null, userId }) {
 async function _getUserSocket(userId) {
     const sockets = await _getAllSockets()
     // console.log('userId', userId)
-    const socket = sockets.find(s => s.userId === userId)
-    // console.log('soket:', socket)
+    const socket = sockets.find(s => {
+        console.log("currsocketttttttttt", s)
+        console.log('s.userId:', s.userId)
+        return s.userId === userId
+    })    // console.log('soket:', socket)
     return socket
 }
 async function _getAllSockets() {
