@@ -3,6 +3,9 @@ import { socketService } from '../../services/socket.service.js'
 import { userService } from '../user/user.service.js'
 import { authService } from '../auth/auth.service.js'
 import { orderService } from './order.service.js'
+
+import mongodb from 'mongodb'
+const { ObjectId } = mongodb
 export async function getOrders(req, res) {
     try {
         const orders = await orderService.query(req.query)
@@ -19,7 +22,6 @@ export async function getOrders(req, res) {
 export async function updateOrder(req, res) {
     try {
         const order = req.body
-        // console.log(order)
         const updatedOrder = await orderService.update(order)
         socketService.emitToUser({ type: 'order-status', data: updatedOrder, userId: order.buyer._id })
         res.json(updatedOrder)
@@ -49,8 +51,8 @@ export async function addOrder(req, res) {
     try {
         var order = req.body
         order.buyer = loggedinUser
-        // console.log(order.buyer)
         order = await orderService.add(order)
+        socketService.emitToUser({ type: 'add-order', data: order, userId: order.hostId })
 
         res.send(order)
 
