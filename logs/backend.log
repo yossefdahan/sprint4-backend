@@ -2072,3 +2072,92 @@
 16.4.2024, 19:54:07 - INFO - Server is running on port: 3030
 16.4.2024, 19:54:07 - INFO - New connected socket [id: EAXveBY_OUNP1P39AAAB]
 16.4.2024, 19:54:07 - INFO - New connected socket [id: axCg4ZoY2Oc5xBx3AAAD]
+16.4.2024, 19:59:33 - INFO - New connected socket [id: G9hmN70Hn2cVF9grAAAF]
+16.4.2024, 19:59:34 - INFO - Req was made | /
+16.4.2024, 19:59:42 - DEBUG - auth.service - login with username: yossi
+16.4.2024, 19:59:42 - INFO - User login:  | {"_id":"6617ddfa358264cf954e1abe","username":"yossi","fullname":"yossi d","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1712840183/zgapr5vjeggxj7jlstpr.jpg"}
+16.4.2024, 19:59:42 - INFO - Setting socket.userId = 6617ddfa358264cf954e1abe for socket [id: G9hmN70Hn2cVF9grAAAF]
+16.4.2024, 19:59:45 - INFO - Req was made | /
+16.4.2024, 19:59:45 - INFO - Req was made | /
+16.4.2024, 19:59:45 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+16.4.2024, 20:53:37 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 20:53:39 - INFO - New connected socket [id: G2eaE323d72zQ2_XAAAH]
+16.4.2024, 20:53:39 - INFO - Req was made | /
+16.4.2024, 20:53:39 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: G2eaE323d72zQ2_XAAAH]
+16.4.2024, 20:53:40 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 20:53:41 - INFO - New connected socket [id: SgYA6fzSViDEL77qAAAJ]
+16.4.2024, 20:53:41 - INFO - Req was made | /
+16.4.2024, 20:53:41 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: SgYA6fzSViDEL77qAAAJ]
+16.4.2024, 20:53:51 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 20:53:52 - INFO - New connected socket [id: G2lW6rvcAEfyOYr7AAAL]
+16.4.2024, 20:53:53 - INFO - Req was made | /
+16.4.2024, 20:53:53 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: G2lW6rvcAEfyOYr7AAAL]
+16.4.2024, 21:18:07 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 21:18:08 - INFO - New connected socket [id: C_-3JM2X92i98i7JAAAN]
+16.4.2024, 21:18:09 - INFO - Req was made | /
+16.4.2024, 21:18:09 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: C_-3JM2X92i98i7JAAAN]
+16.4.2024, 21:41:55 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 21:41:56 - INFO - New connected socket [id: JwqpwY_sRmI5FzyGAAAP]
+16.4.2024, 21:41:57 - INFO - Req was made | /
+16.4.2024, 21:41:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: JwqpwY_sRmI5FzyGAAAP]
+16.4.2024, 21:42:21 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 21:42:21 - INFO - New connected socket [id: 7h6zXrLFdXqV5IetAAAR]
+16.4.2024, 21:42:22 - INFO - Req was made | /
+16.4.2024, 21:42:22 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 7h6zXrLFdXqV5IetAAAR]
+16.4.2024, 21:44:46 - INFO - Req was made | /
+16.4.2024, 21:44:54 - INFO - Req was made | /
+16.4.2024, 21:48:01 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 21:48:03 - INFO - New connected socket [id: l-R-ROANzlrMekgYAAAT]
+16.4.2024, 21:48:03 - INFO - Req was made | /
+16.4.2024, 21:48:03 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: l-R-ROANzlrMekgYAAAT]
+16.4.2024, 23:23:40 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 23:23:40 - INFO - Socket disconnected [id: undefined]
+16.4.2024, 23:23:40 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 8:55:55 - INFO - New connected socket [id: Czz-saEkAMppOdQRAAAZ]
+17.4.2024, 8:55:54 - INFO - New connected socket [id: e0eWGFNVeoVKiSVuAAAY]
+17.4.2024, 8:55:54 - INFO - New connected socket [id: p1XcQeFxjj8Mvan_AAAX]
+17.4.2024, 9:09:31 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:09:33 - INFO - New connected socket [id: QjNuYxigyCxJg_GsAAAb]
+17.4.2024, 9:09:33 - INFO - Req was made | /
+17.4.2024, 9:09:33 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: QjNuYxigyCxJg_GsAAAb]
+17.4.2024, 9:09:58 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:09:59 - INFO - New connected socket [id: wsB5TNCvk1zY76JZAAAd]
+17.4.2024, 9:09:59 - INFO - Req was made | /
+17.4.2024, 9:10:00 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: wsB5TNCvk1zY76JZAAAd]
+17.4.2024, 9:10:14 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:10:14 - INFO - New connected socket [id: hBLq4o9O335yt0R6AAAf]
+17.4.2024, 9:10:15 - INFO - Req was made | /
+17.4.2024, 9:10:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: hBLq4o9O335yt0R6AAAf]
+17.4.2024, 9:10:18 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:10:19 - INFO - New connected socket [id: uMa2xKNEKBZardGyAAAh]
+17.4.2024, 9:10:19 - INFO - Req was made | /
+17.4.2024, 9:10:19 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: uMa2xKNEKBZardGyAAAh]
+17.4.2024, 9:10:24 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:10:24 - INFO - New connected socket [id: tAdVECBRsGZ59d9UAAAj]
+17.4.2024, 9:10:25 - INFO - Req was made | /
+17.4.2024, 9:10:25 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: tAdVECBRsGZ59d9UAAAj]
+17.4.2024, 9:10:28 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:10:29 - INFO - New connected socket [id: VNLA3-UVj6A8rjTJAAAl]
+17.4.2024, 9:10:29 - INFO - Req was made | /
+17.4.2024, 9:10:29 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: VNLA3-UVj6A8rjTJAAAl]
+17.4.2024, 9:12:11 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:12:26 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:12:28 - INFO - New connected socket [id: r2g9uP6GfFQCCxHiAAAn]
+17.4.2024, 9:12:28 - INFO - Setting socket.userId = 6617ddfa358264cf954e1abe for socket [id: r2g9uP6GfFQCCxHiAAAn]
+17.4.2024, 9:12:28 - INFO - Req was made | /
+17.4.2024, 9:12:28 - INFO - Req was made | /
+17.4.2024, 9:12:29 - INFO - Req was made | /
+17.4.2024, 9:12:29 - ERROR - Failed to get stays | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined.
+17.4.2024, 9:12:33 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:12:37 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:12:38 - INFO - New connected socket [id: c68eZV-xBQdpmBUxAAAp]
+17.4.2024, 9:12:38 - INFO - Req was made | /
+17.4.2024, 9:12:38 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: c68eZV-xBQdpmBUxAAAp]
+17.4.2024, 9:12:39 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:55:33 - INFO - New connected socket [id: r-BV-8L5u2qFOyIaAAAr]
+17.4.2024, 9:55:33 - INFO - Req was made | /
+17.4.2024, 9:55:41 - INFO - Socket disconnected [id: undefined]
+17.4.2024, 9:57:01 - INFO - server.js loaded...
+17.4.2024, 9:57:01 - INFO - Server is running on port: 3030
+17.4.2024, 9:57:03 - INFO - server.js loaded...
+17.4.2024, 9:57:03 - INFO - Server is running on port: 3030
