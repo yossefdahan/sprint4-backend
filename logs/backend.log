@@ -2414,3 +2414,64 @@
 18.4.2024, 14:41:16 - INFO - Server is running on port: 3030
 18.4.2024, 14:41:16 - INFO - New connected socket [id: Oznn83WDAmTVuoxPAAAB]
 18.4.2024, 14:41:20 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 15:16:07 - INFO - New connected socket [id: 9mSbt4BVGH7Wb6geAAAD]
+18.4.2024, 15:16:07 - INFO - Req was made | /
+18.4.2024, 15:16:15 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 15:16:15 - INFO - New connected socket [id: dJlN_jtBTC8uTwyLAAAF]
+18.4.2024, 15:16:16 - INFO - Req was made | /
+18.4.2024, 15:16:25 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 15:16:25 - INFO - New connected socket [id: bHoAwa0--C77xApbAAAH]
+18.4.2024, 15:16:25 - INFO - Req was made | /
+18.4.2024, 15:16:30 - INFO - New connected socket [id: rZfQqWu-VFHnii3XAAAJ]
+18.4.2024, 15:16:30 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 15:16:31 - INFO - Req was made | /
+18.4.2024, 15:16:42 - DEBUG - auth.service - login with username: yossef 
+18.4.2024, 15:16:43 - ERROR - Failed to Login Error: Invalid username or password
+18.4.2024, 15:16:43 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 15:16:43 - INFO - New connected socket [id: awd4Y7AiIr6W3ggAAAAL]
+18.4.2024, 15:16:43 - INFO - Req was made | /
+18.4.2024, 15:16:52 - DEBUG - auth.service - login with username: yossef 
+18.4.2024, 15:16:52 - INFO - User login:  | {"_id":"661f6981ee940ae51a216688","username":"yossef ","fullname":"yossef","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713334650/dbgjfuxvpjw6xjlsjmvs.png"}
+18.4.2024, 15:16:52 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: awd4Y7AiIr6W3ggAAAAL]
+18.4.2024, 15:16:55 - INFO - Req was made | /
+18.4.2024, 15:17:00 - INFO - Req was made | /
+18.4.2024, 15:18:27 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 15:18:28 - INFO - New connected socket [id: H5xIQ1ltV7W8-tILAAAN]
+18.4.2024, 15:18:28 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: H5xIQ1ltV7W8-tILAAAN]
+18.4.2024, 15:18:28 - INFO - Req was made | /
+18.4.2024, 15:18:29 - INFO - Req was made | /
+18.4.2024, 16:00:57 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 16:00:59 - INFO - New connected socket [id: g3p_tyz94GnRVU96AAAP]
+18.4.2024, 16:00:59 - INFO - Req was made | /
+18.4.2024, 16:00:59 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: g3p_tyz94GnRVU96AAAP]
+18.4.2024, 16:00:59 - INFO - Req was made | /
+18.4.2024, 16:02:11 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 16:02:12 - INFO - New connected socket [id: HHajuocgotPMS9HjAAAR]
+18.4.2024, 16:02:12 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: HHajuocgotPMS9HjAAAR]
+18.4.2024, 16:02:12 - INFO - Req was made | /
+18.4.2024, 16:02:12 - INFO - Req was made | /
+18.4.2024, 16:03:00 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 16:03:01 - INFO - New connected socket [id: 50eU0HYN55QZOmrJAAAT]
+18.4.2024, 16:03:01 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: 50eU0HYN55QZOmrJAAAT]
+18.4.2024, 16:03:01 - INFO - Req was made | /
+18.4.2024, 16:03:01 - INFO - Req was made | /
+18.4.2024, 16:13:25 - INFO - Req was made | /
+18.4.2024, 16:13:29 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 16:13:30 - INFO - New connected socket [id: gr9XMr4RyYasYi1MAAAV]
+18.4.2024, 16:13:30 - INFO - Req was made | /
+18.4.2024, 16:13:30 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: gr9XMr4RyYasYi1MAAAV]
+18.4.2024, 16:13:31 - INFO - Req was made | /
+18.4.2024, 16:16:44 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 16:16:45 - INFO - New connected socket [id: jsnPkkvkkp5f6lqAAAAX]
+18.4.2024, 16:16:46 - INFO - Req was made | /
+18.4.2024, 16:16:46 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: jsnPkkvkkp5f6lqAAAAX]
+18.4.2024, 16:17:26 - INFO - Socket disconnected [id: undefined]
+18.4.2024, 16:17:27 - INFO - New connected socket [id: -ZcHsrwzFjRuR7MrAAAZ]
+18.4.2024, 16:17:28 - INFO - Req was made | /
+18.4.2024, 16:17:28 - INFO - Setting socket.userId = 661f6981ee940ae51a216688 for socket [id: -ZcHsrwzFjRuR7MrAAAZ]
+18.4.2024, 16:23:35 - INFO - server.js loaded...
+18.4.2024, 16:23:35 - INFO - Server is running on port: 3030
+18.4.2024, 16:23:35 - INFO - New connected socket [id: or-F65UhKPPCKHo8AAAB]
+18.4.2024, 16:23:37 - INFO - server.js loaded...
+18.4.2024, 16:23:37 - INFO - Server is running on port: 3030
+18.4.2024, 16:23:38 - INFO - New connected socket [id: YPh2vSkFTzeynDpNAAAB]
