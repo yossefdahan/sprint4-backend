@@ -4795,3 +4795,57 @@
 29.5.2024, 16:37:24 - INFO - server.js loaded...
 29.5.2024, 16:37:24 - INFO - Server is running on port: 3030
 29.5.2024, 16:37:25 - INFO - New connected socket [id: n2prB27z1BIGG7A5AAAB]
+29.5.2024, 16:37:54 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:38:03 - INFO - New connected socket [id: 0iFZAfa8kCAsmPecAAAD]
+29.5.2024, 16:38:03 - INFO - Req was made | /
+29.5.2024, 16:38:11 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:38:11 - INFO - New connected socket [id: zR4SXoHaBMEfKgfHAAAF]
+29.5.2024, 16:38:11 - INFO - Req was made | /
+29.5.2024, 16:39:05 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:39:06 - INFO - New connected socket [id: nukv04eXmlessOHLAAAH]
+29.5.2024, 16:39:06 - INFO - Req was made | /
+29.5.2024, 16:40:13 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:40:13 - INFO - New connected socket [id: cI6We0iv7iA52QzlAAAJ]
+29.5.2024, 16:40:13 - INFO - Req was made | /
+29.5.2024, 16:40:16 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:40:17 - INFO - New connected socket [id: s6JaW683rOgUvIneAAAL]
+29.5.2024, 16:40:17 - INFO - Req was made | /
+29.5.2024, 16:40:17 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:40:23 - INFO - New connected socket [id: DGI1nOJaAwWkL4ujAAAN]
+29.5.2024, 16:40:23 - INFO - Req was made | /
+29.5.2024, 16:40:39 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:40:39 - INFO - New connected socket [id: TO4n5CeoN3dUL738AAAP]
+29.5.2024, 16:40:39 - INFO - Req was made | /
+29.5.2024, 16:40:45 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:40:45 - INFO - New connected socket [id: jg5N7rUKpbyB4iG3AAAR]
+29.5.2024, 16:40:45 - INFO - Req was made | /
+29.5.2024, 16:41:49 - INFO - New connected socket [id: 5p1o_M4qQ-hW4zntAAAT]
+29.5.2024, 16:41:49 - INFO - Req was made | /
+29.5.2024, 16:42:32 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:42:32 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:42:32 - INFO - New connected socket [id: KiptlMBPbrElP5nGAAAV]
+29.5.2024, 16:42:32 - INFO - Req was made | /
+29.5.2024, 16:42:44 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:42:44 - INFO - New connected socket [id: jZ5B37tb3ZOzWcHsAAAX]
+29.5.2024, 16:42:44 - INFO - Req was made | /
+29.5.2024, 16:42:55 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:42:56 - INFO - New connected socket [id: 2rPTGCn5ORuECEttAAAZ]
+29.5.2024, 16:42:56 - INFO - Req was made | /
+29.5.2024, 16:43:44 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:43:45 - INFO - New connected socket [id: Tdos1YqYh88N50hHAAAb]
+29.5.2024, 16:43:45 - INFO - Req was made | /
+29.5.2024, 16:43:46 - INFO - Req was made | /
+29.5.2024, 16:43:59 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:43:59 - INFO - New connected socket [id: 65E7NVCMeN6bdWY7AAAd]
+29.5.2024, 16:43:59 - INFO - Req was made | /
+29.5.2024, 16:44:42 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:44:42 - INFO - New connected socket [id: gJ2i9hh-lwCpsG4iAAAf]
+29.5.2024, 16:44:42 - INFO - Req was made | /
+29.5.2024, 16:46:30 - INFO - Socket disconnected [id: undefined]
+29.5.2024, 16:46:30 - INFO - New connected socket [id: iLvmgt9MvpxhRk-HAAAh]
+29.5.2024, 16:46:30 - INFO - Req was made | /
+29.5.2024, 16:47:04 - INFO - server.js loaded...
+29.5.2024, 16:47:04 - INFO - Server is running on port: 3030
+29.5.2024, 16:47:05 - INFO - server.js loaded...
+29.5.2024, 16:47:05 - INFO - Server is running on port: 3030
+29.5.2024, 16:47:05 - INFO - New connected socket [id: H8biLvZFjYoxr7-zAAAB]
