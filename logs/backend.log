@@ -4849,3 +4849,1183 @@
 29.5.2024, 16:47:05 - INFO - server.js loaded...
 29.5.2024, 16:47:05 - INFO - Server is running on port: 3030
 29.5.2024, 16:47:05 - INFO - New connected socket [id: H8biLvZFjYoxr7-zAAAB]
+29.5.2024, 16:56:48 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 9:33:35 - INFO - server.js loaded...
+30.5.2024, 9:33:35 - INFO - Server is running on port: 3030
+30.5.2024, 9:34:00 - INFO - New connected socket [id: -F-NEKDB36Xwtkh3AAAB]
+30.5.2024, 9:34:00 - INFO - Req was made | /
+30.5.2024, 9:35:51 - INFO - Req was made | /
+30.5.2024, 9:35:53 - INFO - Req was made | /
+30.5.2024, 9:35:59 - INFO - Req was made | /
+30.5.2024, 9:36:05 - INFO - Req was made | /
+30.5.2024, 9:36:06 - INFO - Req was made | /
+30.5.2024, 9:43:09 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 9:43:10 - INFO - New connected socket [id: 0KNPQchynGUwu0qPAAAD]
+30.5.2024, 9:43:10 - INFO - Req was made | /
+30.5.2024, 9:43:12 - INFO - Req was made | /
+30.5.2024, 9:43:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 9:43:14 - INFO - New connected socket [id: cCRZ9ZpUhm-mwjs8AAAF]
+30.5.2024, 9:43:14 - INFO - Req was made | /
+30.5.2024, 9:55:36 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 9:55:37 - INFO - New connected socket [id: z4-jo8dDia66zWTCAAAH]
+30.5.2024, 9:55:37 - INFO - Req was made | /
+30.5.2024, 9:58:47 - INFO - Req was made | /
+30.5.2024, 10:13:03 - INFO - Req was made | /
+30.5.2024, 10:13:22 - INFO - Req was made | /
+30.5.2024, 10:13:24 - INFO - Req was made | /
+30.5.2024, 10:13:33 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:13:33 - INFO - New connected socket [id: fzC0z4E71TFYpFaIAAAJ]
+30.5.2024, 10:13:33 - INFO - Req was made | /
+30.5.2024, 10:13:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:13:35 - INFO - New connected socket [id: hzICgbE52Vq92g1TAAAL]
+30.5.2024, 10:13:35 - INFO - Req was made | /
+30.5.2024, 10:13:54 - INFO - Req was made | /
+30.5.2024, 10:13:56 - INFO - Req was made | /
+30.5.2024, 10:14:14 - INFO - Req was made | /
+30.5.2024, 10:14:23 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:14:23 - INFO - New connected socket [id: Meonzto7B2DIIBgdAAAN]
+30.5.2024, 10:14:23 - INFO - Req was made | /
+30.5.2024, 10:14:45 - INFO - Req was made | /
+30.5.2024, 10:14:50 - INFO - Req was made | /
+30.5.2024, 10:14:52 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:14:52 - INFO - New connected socket [id: hvRl-C4owqj_ZG5WAAAP]
+30.5.2024, 10:14:52 - INFO - Req was made | /
+30.5.2024, 10:14:57 - INFO - Req was made | /
+30.5.2024, 10:15:29 - INFO - Req was made | /
+30.5.2024, 10:16:42 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:16:42 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:16:42 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: hvRl-C4owqj_ZG5WAAAP]
+30.5.2024, 10:16:44 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:16:44 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:16:44 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: hvRl-C4owqj_ZG5WAAAP]
+30.5.2024, 10:16:51 - DEBUG - auth.service - login with username: bendon
+30.5.2024, 10:16:52 - INFO - User login:  | {"_id":"661ebaba2d99793a0e7f5b17","username":"bendon","fullname":"James","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713289910/lwhyzyyturvy9dkikjw7.png"}
+30.5.2024, 10:16:52 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: hvRl-C4owqj_ZG5WAAAP]
+30.5.2024, 10:16:52 - DEBUG - auth.service - login with username: bendon
+30.5.2024, 10:16:52 - INFO - User login:  | {"_id":"661ebaba2d99793a0e7f5b17","username":"bendon","fullname":"James","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713289910/lwhyzyyturvy9dkikjw7.png"}
+30.5.2024, 10:16:52 - DEBUG - auth.service - login with username: bendon
+30.5.2024, 10:16:52 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: hvRl-C4owqj_ZG5WAAAP]
+30.5.2024, 10:16:52 - INFO - User login:  | {"_id":"661ebaba2d99793a0e7f5b17","username":"bendon","fullname":"James","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713289910/lwhyzyyturvy9dkikjw7.png"}
+30.5.2024, 10:16:52 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: hvRl-C4owqj_ZG5WAAAP]
+30.5.2024, 10:16:54 - DEBUG - auth.service - login with username: bendon
+30.5.2024, 10:16:54 - INFO - User login:  | {"_id":"661ebaba2d99793a0e7f5b17","username":"bendon","fullname":"James","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713289910/lwhyzyyturvy9dkikjw7.png"}
+30.5.2024, 10:16:54 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: hvRl-C4owqj_ZG5WAAAP]
+30.5.2024, 10:16:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:16:55 - INFO - New connected socket [id: QtSJBMygtgCFRW8iAAAR]
+30.5.2024, 10:16:55 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: QtSJBMygtgCFRW8iAAAR]
+30.5.2024, 10:16:55 - INFO - Req was made | /
+30.5.2024, 10:17:03 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:17:03 - INFO - New connected socket [id: KTGwranLFlZrTxr4AAAT]
+30.5.2024, 10:17:03 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: KTGwranLFlZrTxr4AAAT]
+30.5.2024, 10:17:03 - INFO - Req was made | /
+30.5.2024, 10:17:10 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:17:11 - INFO - New connected socket [id: RHTe_YdX1jV02qmnAAAV]
+30.5.2024, 10:17:11 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: RHTe_YdX1jV02qmnAAAV]
+30.5.2024, 10:17:11 - INFO - Req was made | /
+30.5.2024, 10:20:41 - INFO - Req was made | /
+30.5.2024, 10:20:47 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:20:47 - INFO - New connected socket [id: TKMoUcTIbxUZsQsLAAAX]
+30.5.2024, 10:20:47 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: TKMoUcTIbxUZsQsLAAAX]
+30.5.2024, 10:20:47 - INFO - Req was made | /
+30.5.2024, 10:20:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:20:56 - INFO - New connected socket [id: aawgZQsBBD_UTemfAAAZ]
+30.5.2024, 10:20:56 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: aawgZQsBBD_UTemfAAAZ]
+30.5.2024, 10:20:56 - INFO - Req was made | /
+30.5.2024, 10:21:05 - INFO - New connected socket [id: ZQcEOLg7NjnjNUddAAAb]
+30.5.2024, 10:21:05 - INFO - Req was made | /
+30.5.2024, 10:21:07 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:21:10 - INFO - New connected socket [id: ygtksk9omceWrGb3AAAd]
+30.5.2024, 10:21:10 - INFO - Req was made | /
+30.5.2024, 10:21:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:21:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:21:37 - INFO - Req was made | /
+30.5.2024, 10:21:37 - INFO - New connected socket [id: b5M0s7FR9rCJoseFAAAf]
+30.5.2024, 10:22:00 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:22:00 - INFO - New connected socket [id: u8JV4itvv49p_DLAAAAh]
+30.5.2024, 10:22:00 - INFO - Req was made | /
+30.5.2024, 10:22:52 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:22:52 - INFO - New connected socket [id: ABisNxUlI1DiLVOBAAAj]
+30.5.2024, 10:22:52 - INFO - Req was made | /
+30.5.2024, 10:23:10 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:23:10 - INFO - New connected socket [id: Eqb4SQFz06NkXrDkAAAl]
+30.5.2024, 10:23:10 - INFO - Req was made | /
+30.5.2024, 10:23:32 - DEBUG - auth.service - login with username: bendon
+30.5.2024, 10:23:32 - INFO - User login:  | {"_id":"661ebaba2d99793a0e7f5b17","username":"bendon","fullname":"James","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713289910/lwhyzyyturvy9dkikjw7.png"}
+30.5.2024, 10:23:32 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: Eqb4SQFz06NkXrDkAAAl]
+30.5.2024, 10:24:06 - DEBUG - auth.service - login with username: bendon
+30.5.2024, 10:24:07 - INFO - User login:  | {"_id":"661ebaba2d99793a0e7f5b17","username":"bendon","fullname":"James","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713289910/lwhyzyyturvy9dkikjw7.png"}
+30.5.2024, 10:24:07 - INFO - Setting socket.userId = 661ebaba2d99793a0e7f5b17 for socket [id: Eqb4SQFz06NkXrDkAAAl]
+30.5.2024, 10:26:57 - INFO - Removing socket.userId for socket [id: Eqb4SQFz06NkXrDkAAAl]
+30.5.2024, 10:27:08 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:27:08 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:27:08 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Eqb4SQFz06NkXrDkAAAl]
+30.5.2024, 10:27:12 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:27:12 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:27:12 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Eqb4SQFz06NkXrDkAAAl]
+30.5.2024, 10:27:33 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:27:34 - INFO - New connected socket [id: UzStmXlNsiNk-Da5AAAn]
+30.5.2024, 10:27:34 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: UzStmXlNsiNk-Da5AAAn]
+30.5.2024, 10:27:34 - INFO - Req was made | /
+30.5.2024, 10:28:45 - INFO - Req was made | /
+30.5.2024, 10:29:13 - INFO - Req was made | /
+30.5.2024, 10:30:10 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:10 - INFO - Req was made | /
+30.5.2024, 10:30:10 - INFO - New connected socket [id: jde7ANnPYD0meixvAAAp]
+30.5.2024, 10:30:10 - INFO - Req was made | /
+30.5.2024, 10:30:10 - INFO - New connected socket [id: NmCsglaRO5OmZMv2AAAr]
+30.5.2024, 10:30:11 - INFO - Req was made | /
+30.5.2024, 10:30:11 - INFO - New connected socket [id: Siq3A9A4VFdyCTNAAAAt]
+30.5.2024, 10:30:11 - INFO - Req was made | /
+30.5.2024, 10:30:11 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Siq3A9A4VFdyCTNAAAAt]
+30.5.2024, 10:30:11 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:11 - INFO - New connected socket [id: 2SduESm5iSZl0il1AAAv]
+30.5.2024, 10:30:11 - INFO - Req was made | /
+30.5.2024, 10:30:11 - INFO - New connected socket [id: 4w2RKlydPCIO3J4_AAAx]
+30.5.2024, 10:30:11 - INFO - Req was made | /
+30.5.2024, 10:30:11 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 4w2RKlydPCIO3J4_AAAx]
+30.5.2024, 10:30:11 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:11 - INFO - New connected socket [id: Qhet-12Q92rZubtNAAAz]
+30.5.2024, 10:30:11 - INFO - Req was made | /
+30.5.2024, 10:30:11 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Qhet-12Q92rZubtNAAAz]
+30.5.2024, 10:30:11 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:12 - INFO - New connected socket [id: iY4AoM663wApSgPtAAA1]
+30.5.2024, 10:30:12 - INFO - Req was made | /
+30.5.2024, 10:30:12 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: iY4AoM663wApSgPtAAA1]
+30.5.2024, 10:30:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:12 - INFO - New connected socket [id: kzGL7d6JzTmvkXJIAAA3]
+30.5.2024, 10:30:12 - INFO - Req was made | /
+30.5.2024, 10:30:12 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: kzGL7d6JzTmvkXJIAAA3]
+30.5.2024, 10:30:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:12 - INFO - New connected socket [id: mCt8rnSGoLJ5ofDrAAA5]
+30.5.2024, 10:30:12 - INFO - Req was made | /
+30.5.2024, 10:30:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:12 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: mCt8rnSGoLJ5ofDrAAA5]
+30.5.2024, 10:30:12 - INFO - New connected socket [id: 6befxNB4f9VspFssAAA7]
+30.5.2024, 10:30:12 - INFO - Req was made | /
+30.5.2024, 10:30:12 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 6befxNB4f9VspFssAAA7]
+30.5.2024, 10:30:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:12 - INFO - New connected socket [id: bsfdQ160KmPsb0lHAAA9]
+30.5.2024, 10:30:12 - INFO - Req was made | /
+30.5.2024, 10:30:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:13 - INFO - New connected socket [id: aGa2LzP2RlJ89mDCAAA_]
+30.5.2024, 10:30:13 - INFO - Req was made | /
+30.5.2024, 10:30:13 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: aGa2LzP2RlJ89mDCAAA_]
+30.5.2024, 10:30:13 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:13 - INFO - New connected socket [id: lMRxjb9rW8rzCcwCAABB]
+30.5.2024, 10:30:13 - INFO - Req was made | /
+30.5.2024, 10:30:13 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: lMRxjb9rW8rzCcwCAABB]
+30.5.2024, 10:30:13 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:13 - INFO - New connected socket [id: -pH-WGute6PCCZPPAABD]
+30.5.2024, 10:30:13 - INFO - Req was made | /
+30.5.2024, 10:30:13 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: -pH-WGute6PCCZPPAABD]
+30.5.2024, 10:30:13 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:13 - INFO - New connected socket [id: SawfQsCqfWnNiXz6AABF]
+30.5.2024, 10:30:13 - INFO - Req was made | /
+30.5.2024, 10:30:13 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: SawfQsCqfWnNiXz6AABF]
+30.5.2024, 10:30:13 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:13 - INFO - New connected socket [id: Pok_6lCYXu5n5KrQAABH]
+30.5.2024, 10:30:14 - INFO - Req was made | /
+30.5.2024, 10:30:14 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Pok_6lCYXu5n5KrQAABH]
+30.5.2024, 10:30:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:14 - INFO - New connected socket [id: ngkJS1XqT1PY5AvHAABJ]
+30.5.2024, 10:30:14 - INFO - Req was made | /
+30.5.2024, 10:30:14 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: ngkJS1XqT1PY5AvHAABJ]
+30.5.2024, 10:30:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:14 - INFO - New connected socket [id: OlUla3bZN2rhbt1FAABL]
+30.5.2024, 10:30:14 - INFO - Req was made | /
+30.5.2024, 10:30:14 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: OlUla3bZN2rhbt1FAABL]
+30.5.2024, 10:30:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:14 - INFO - New connected socket [id: twa14cjcB5ntk7jyAABN]
+30.5.2024, 10:30:14 - INFO - Req was made | /
+30.5.2024, 10:30:14 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: twa14cjcB5ntk7jyAABN]
+30.5.2024, 10:30:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:14 - INFO - New connected socket [id: 0Ag3FqSIvt0DxmwqAABP]
+30.5.2024, 10:30:14 - INFO - Req was made | /
+30.5.2024, 10:30:14 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 0Ag3FqSIvt0DxmwqAABP]
+30.5.2024, 10:30:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:14 - INFO - New connected socket [id: uvSrrPC7KYztfUVwAABR]
+30.5.2024, 10:30:15 - INFO - Req was made | /
+30.5.2024, 10:30:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: uvSrrPC7KYztfUVwAABR]
+30.5.2024, 10:30:15 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:15 - INFO - New connected socket [id: 5bZhpAYBgllndfjMAABT]
+30.5.2024, 10:30:15 - INFO - Req was made | /
+30.5.2024, 10:30:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 5bZhpAYBgllndfjMAABT]
+30.5.2024, 10:30:15 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:15 - INFO - New connected socket [id: 006mFk-sJxBwp7weAABV]
+30.5.2024, 10:30:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 006mFk-sJxBwp7weAABV]
+30.5.2024, 10:30:15 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:15 - INFO - Req was made | /
+30.5.2024, 10:30:15 - INFO - New connected socket [id: nphc8ouVnqlX6sMbAABX]
+30.5.2024, 10:30:15 - INFO - Req was made | /
+30.5.2024, 10:30:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: nphc8ouVnqlX6sMbAABX]
+30.5.2024, 10:30:15 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:15 - INFO - New connected socket [id: T8oAjuxrCjKrGkt4AABZ]
+30.5.2024, 10:30:15 - INFO - Req was made | /
+30.5.2024, 10:30:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: T8oAjuxrCjKrGkt4AABZ]
+30.5.2024, 10:30:15 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:16 - INFO - New connected socket [id: 4fD097LuOAyM5FJEAABb]
+30.5.2024, 10:30:16 - INFO - Req was made | /
+30.5.2024, 10:30:16 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 4fD097LuOAyM5FJEAABb]
+30.5.2024, 10:30:16 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:16 - INFO - New connected socket [id: J_1YxUjosQyuTRkmAABd]
+30.5.2024, 10:30:16 - INFO - Req was made | /
+30.5.2024, 10:30:16 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: J_1YxUjosQyuTRkmAABd]
+30.5.2024, 10:30:16 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:16 - INFO - New connected socket [id: DMOoXLKSR0QnqWL6AABf]
+30.5.2024, 10:30:16 - INFO - Req was made | /
+30.5.2024, 10:30:16 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: DMOoXLKSR0QnqWL6AABf]
+30.5.2024, 10:30:16 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:16 - INFO - New connected socket [id: cA1yLV_0E7UfmhnYAABh]
+30.5.2024, 10:30:16 - INFO - Req was made | /
+30.5.2024, 10:30:16 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: cA1yLV_0E7UfmhnYAABh]
+30.5.2024, 10:30:16 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:17 - INFO - New connected socket [id: jGeD1plaoFwl2KxeAABj]
+30.5.2024, 10:30:17 - INFO - Req was made | /
+30.5.2024, 10:30:17 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: jGeD1plaoFwl2KxeAABj]
+30.5.2024, 10:30:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:30:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:26 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:27 - INFO - New connected socket [id: u-MOKgnaa6v2c4eIAABl]
+30.5.2024, 10:33:27 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: u-MOKgnaa6v2c4eIAABl]
+30.5.2024, 10:33:27 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:27 - INFO - Req was made | /
+30.5.2024, 10:33:27 - INFO - New connected socket [id: fllSUVdJy66NrvsFAABn]
+30.5.2024, 10:33:27 - INFO - Req was made | /
+30.5.2024, 10:33:27 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: fllSUVdJy66NrvsFAABn]
+30.5.2024, 10:33:27 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:27 - INFO - New connected socket [id: 0Fxli1fzxH7E83abAABp]
+30.5.2024, 10:33:27 - INFO - Req was made | /
+30.5.2024, 10:33:27 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 0Fxli1fzxH7E83abAABp]
+30.5.2024, 10:33:27 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:27 - INFO - New connected socket [id: 9PcE0oQ35rp6U6L5AABr]
+30.5.2024, 10:33:28 - INFO - Req was made | /
+30.5.2024, 10:33:28 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 9PcE0oQ35rp6U6L5AABr]
+30.5.2024, 10:33:28 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:28 - INFO - New connected socket [id: 8ZVE4GT_tVzhlVoQAABt]
+30.5.2024, 10:33:28 - INFO - Req was made | /
+30.5.2024, 10:33:28 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 8ZVE4GT_tVzhlVoQAABt]
+30.5.2024, 10:33:28 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:28 - INFO - New connected socket [id: TfjLs8nI9runxwEDAABv]
+30.5.2024, 10:33:28 - INFO - Req was made | /
+30.5.2024, 10:33:28 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: TfjLs8nI9runxwEDAABv]
+30.5.2024, 10:33:28 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:28 - INFO - New connected socket [id: GafMa1IuKEd9RhPhAABx]
+30.5.2024, 10:33:28 - INFO - Req was made | /
+30.5.2024, 10:33:28 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: GafMa1IuKEd9RhPhAABx]
+30.5.2024, 10:33:28 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:28 - INFO - New connected socket [id: rsUlO1JdVtzUIAWsAABz]
+30.5.2024, 10:33:29 - INFO - Req was made | /
+30.5.2024, 10:33:29 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: rsUlO1JdVtzUIAWsAABz]
+30.5.2024, 10:33:29 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:29 - INFO - New connected socket [id: nO9tJf30OT8CtKUdAAB1]
+30.5.2024, 10:33:29 - INFO - Req was made | /
+30.5.2024, 10:33:29 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: nO9tJf30OT8CtKUdAAB1]
+30.5.2024, 10:33:29 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:29 - INFO - New connected socket [id: 1xyiFNazingWOwaGAAB3]
+30.5.2024, 10:33:29 - INFO - Req was made | /
+30.5.2024, 10:33:29 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 1xyiFNazingWOwaGAAB3]
+30.5.2024, 10:33:29 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:29 - INFO - New connected socket [id: UqDh69GnbZSXgdI1AAB5]
+30.5.2024, 10:33:29 - INFO - Req was made | /
+30.5.2024, 10:33:29 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: UqDh69GnbZSXgdI1AAB5]
+30.5.2024, 10:33:29 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:29 - INFO - New connected socket [id: KtY-OrXYiEQyO8NVAAB7]
+30.5.2024, 10:33:30 - INFO - Req was made | /
+30.5.2024, 10:33:30 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: KtY-OrXYiEQyO8NVAAB7]
+30.5.2024, 10:33:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:30 - INFO - New connected socket [id: RG-e8u88JG4Y-YXsAAB9]
+30.5.2024, 10:33:30 - INFO - Req was made | /
+30.5.2024, 10:33:30 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: RG-e8u88JG4Y-YXsAAB9]
+30.5.2024, 10:33:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:30 - INFO - New connected socket [id: 46l6JrTkSPnMyMlVAAB_]
+30.5.2024, 10:33:30 - INFO - Req was made | /
+30.5.2024, 10:33:30 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 46l6JrTkSPnMyMlVAAB_]
+30.5.2024, 10:33:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:30 - INFO - New connected socket [id: qYj20NfwJsIwWuhPAACB]
+30.5.2024, 10:33:30 - INFO - Req was made | /
+30.5.2024, 10:33:30 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: qYj20NfwJsIwWuhPAACB]
+30.5.2024, 10:33:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:33:31 - INFO - New connected socket [id: GwZsDWhkwXqeo8WbAACD]
+30.5.2024, 10:33:31 - INFO - Req was made | /
+30.5.2024, 10:33:31 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: GwZsDWhkwXqeo8WbAACD]
+30.5.2024, 10:34:59 - INFO - Removing socket.userId for socket [id: GwZsDWhkwXqeo8WbAACD]
+30.5.2024, 10:39:43 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:39:43 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:39:43 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: GwZsDWhkwXqeo8WbAACD]
+30.5.2024, 10:39:43 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:44 - INFO - New connected socket [id: 0JnmlvTNgW4l2vIHAACF]
+30.5.2024, 10:39:44 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 0JnmlvTNgW4l2vIHAACF]
+30.5.2024, 10:39:44 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:44 - INFO - Req was made | /
+30.5.2024, 10:39:44 - INFO - New connected socket [id: DoR9oactczDaF79DAACH]
+30.5.2024, 10:39:44 - INFO - Req was made | /
+30.5.2024, 10:39:44 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: DoR9oactczDaF79DAACH]
+30.5.2024, 10:39:44 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:44 - INFO - Req was made | /
+30.5.2024, 10:39:44 - INFO - New connected socket [id: WnI9J-WglInmz0W9AACJ]
+30.5.2024, 10:39:44 - INFO - Req was made | /
+30.5.2024, 10:39:44 - INFO - New connected socket [id: uAwEaHaYBxeGNl0zAACM]
+30.5.2024, 10:39:44 - INFO - Req was made | /
+30.5.2024, 10:39:44 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: uAwEaHaYBxeGNl0zAACM]
+30.5.2024, 10:39:44 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:44 - INFO - Req was made | /
+30.5.2024, 10:39:44 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - New connected socket [id: BH5qa5DFTrQCOCLuAACP]
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - New connected socket [id: lsNV227jWRPt6LYxAACR]
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - New connected socket [id: QgZ7_s17AguNlvrLAACT]
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - New connected socket [id: 1xkXbSvr-vjhqqsxAACa]
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - New connected socket [id: pgxZ1Kwp1p72oL5tAACc]
+30.5.2024, 10:39:45 - INFO - Req was made | /
+30.5.2024, 10:39:45 - INFO - New connected socket [id: i_9jpRMnPeKLNIzpAACe]
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - New connected socket [id: D_24uDzVDtpBMvMLAACh]
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:46 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:47 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:48 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - New connected socket [id: TIKhgsz8vfVQuHFfAADE]
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: TIKhgsz8vfVQuHFfAADE]
+30.5.2024, 10:39:49 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - New connected socket [id: LvTD8C7wF0-ofWcwAADG]
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - New connected socket [id: ifjUUsmBJUdQwhwQAADI]
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:49 - INFO - New connected socket [id: X81XuvqedjtIab6QAADK]
+30.5.2024, 10:39:49 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - New connected socket [id: eDOedik5SKWjy6kWAADM]
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - New connected socket [id: Hjp8H5mJdxq0bbaoAADO]
+30.5.2024, 10:39:50 - INFO - New connected socket [id: 4cUYV3akpxUtSOCXAADQ]
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - New connected socket [id: 1NiadSigMUikX6zyAADT]
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - New connected socket [id: MbHBYAdxSNfpq_4GAADV]
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - New connected socket [id: jJ5ZSP-3GrzVT9lvAADX]
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - Req was made | /
+30.5.2024, 10:39:50 - INFO - New connected socket [id: oBHUHwjn1fl_oFQSAADb]
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - New connected socket [id: os7qC4sjuX9hJcDhAADd]
+30.5.2024, 10:39:51 - INFO - New connected socket [id: U9k7hM3PM9nI4fGIAADf]
+30.5.2024, 10:39:51 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - New connected socket [id: MrB3BBRkh8JyDkYLAADj]
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - New connected socket [id: cQc5zJyvtKO0HZHUAADl]
+30.5.2024, 10:39:51 - INFO - New connected socket [id: Cc8s6troeI7PEmUjAADn]
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Cc8s6troeI7PEmUjAADn]
+30.5.2024, 10:39:51 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - New connected socket [id: OQCQ-El73mh40gg1AADp]
+30.5.2024, 10:39:51 - INFO - New connected socket [id: bs0Ri0X81G4EY4LkAADr]
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:51 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - New connected socket [id: bq0APMc8LplqeKXuAADu]
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - New connected socket [id: f-7-6DKqjAikcKbIAADx]
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: f-7-6DKqjAikcKbIAADx]
+30.5.2024, 10:39:52 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - New connected socket [id: YEufbJ2dFM8ccOfoAADz]
+30.5.2024, 10:39:52 - INFO - New connected socket [id: hmM_isPumOVbadQrAAD1]
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: hmM_isPumOVbadQrAAD1]
+30.5.2024, 10:39:52 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - New connected socket [id: Cfk6YUxTXGz4UBxxAAD3]
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - New connected socket [id: q8kAapXkxDRMMPySAAD7]
+30.5.2024, 10:39:52 - INFO - Req was made | /
+30.5.2024, 10:39:52 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: q8kAapXkxDRMMPySAAD7]
+30.5.2024, 10:39:52 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - New connected socket [id: XtetFwybTbAulwHyAAD9]
+30.5.2024, 10:39:53 - INFO - New connected socket [id: A6HTHy3_2F5b_J6WAAD_]
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:53 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - New connected socket [id: J2DXoweh9b8LjFcpAAEM]
+30.5.2024, 10:39:54 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: J2DXoweh9b8LjFcpAAEM]
+30.5.2024, 10:39:54 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - New connected socket [id: xrLW043jf1eGXF4SAAEO]
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: xrLW043jf1eGXF4SAAEO]
+30.5.2024, 10:39:54 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:54 - INFO - New connected socket [id: Bbr23VGFOf22a0VfAAEQ]
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Bbr23VGFOf22a0VfAAEQ]
+30.5.2024, 10:39:54 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:54 - INFO - Req was made | /
+30.5.2024, 10:39:54 - INFO - New connected socket [id: _AKhHAb_bIGpgefxAAET]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: _AKhHAb_bIGpgefxAAET]
+30.5.2024, 10:39:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - New connected socket [id: UjAiX2riRJEzQ-TAAAEV]
+30.5.2024, 10:39:55 - INFO - New connected socket [id: 0B-eeYH42433_2htAAEX]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 0B-eeYH42433_2htAAEX]
+30.5.2024, 10:39:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:55 - INFO - New connected socket [id: SOGwRizm7HLL3xgVAAEZ]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: SOGwRizm7HLL3xgVAAEZ]
+30.5.2024, 10:39:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - New connected socket [id: A4CJBE_dyPpBrHVAAAEb]
+30.5.2024, 10:39:55 - INFO - New connected socket [id: 1HUby1yZSYS3VPJsAAEd]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 1HUby1yZSYS3VPJsAAEd]
+30.5.2024, 10:39:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:55 - INFO - New connected socket [id: nMq8uaco8u0xOlIMAAEf]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: nMq8uaco8u0xOlIMAAEf]
+30.5.2024, 10:39:55 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:55 - INFO - Req was made | /
+30.5.2024, 10:39:55 - INFO - New connected socket [id: _N08x8YHztdZaZ6VAAEh]
+30.5.2024, 10:39:55 - INFO - New connected socket [id: NkFwhJY2nQZ_TvZHAAEj]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: NkFwhJY2nQZ_TvZHAAEj]
+30.5.2024, 10:39:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:56 - INFO - New connected socket [id: 79tNCxK7JUBOSDFJAAEl]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 79tNCxK7JUBOSDFJAAEl]
+30.5.2024, 10:39:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:56 - INFO - New connected socket [id: UPmPFyMY5TxCSWj1AAEn]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: UPmPFyMY5TxCSWj1AAEn]
+30.5.2024, 10:39:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:56 - INFO - New connected socket [id: XENzGlbECYNJVh7tAAEp]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: XENzGlbECYNJVh7tAAEp]
+30.5.2024, 10:39:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:56 - INFO - New connected socket [id: Pb0AtRoiX2N2qUCpAAEr]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Pb0AtRoiX2N2qUCpAAEr]
+30.5.2024, 10:39:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:56 - INFO - New connected socket [id: 6X7ezABqrCw-bkA4AAEt]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 6X7ezABqrCw-bkA4AAEt]
+30.5.2024, 10:39:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - New connected socket [id: 6h7vNZgsEGm3geraAAEv]
+30.5.2024, 10:39:56 - INFO - New connected socket [id: L5YCb40H-NTSOo10AAEx]
+30.5.2024, 10:39:56 - INFO - Req was made | /
+30.5.2024, 10:39:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: L5YCb40H-NTSOo10AAEx]
+30.5.2024, 10:39:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - New connected socket [id: ALcEiTLWk4V1nQzbAAEz]
+30.5.2024, 10:39:57 - INFO - New connected socket [id: x-q6msqWcZQyfoTtAAE1]
+30.5.2024, 10:39:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: x-q6msqWcZQyfoTtAAE1]
+30.5.2024, 10:39:57 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - New connected socket [id: 0pglKt7rcAcZ5lC_AAE3]
+30.5.2024, 10:39:57 - INFO - New connected socket [id: 7XWpFysWjG7g1Ki1AAE5]
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 7XWpFysWjG7g1Ki1AAE5]
+30.5.2024, 10:39:57 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:57 - INFO - New connected socket [id: qDrNwGpxO4BjzgyhAAE7]
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: qDrNwGpxO4BjzgyhAAE7]
+30.5.2024, 10:39:57 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:57 - INFO - New connected socket [id: N8lq4Ii3IfiaNsFJAAE9]
+30.5.2024, 10:39:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: N8lq4Ii3IfiaNsFJAAE9]
+30.5.2024, 10:39:57 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - New connected socket [id: EKapwM_SDyRmeNE4AAE_]
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - New connected socket [id: c2bwvBYACyOjn9HZAAFB]
+30.5.2024, 10:39:57 - INFO - Req was made | /
+30.5.2024, 10:39:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: c2bwvBYACyOjn9HZAAFB]
+30.5.2024, 10:39:57 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:57 - INFO - New connected socket [id: RnNMNnmnvd6MEt2dAAFD]
+30.5.2024, 10:39:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: RnNMNnmnvd6MEt2dAAFD]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:58 - INFO - New connected socket [id: MF-0CnhmF0WYXAU0AAFF]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: MF-0CnhmF0WYXAU0AAFF]
+30.5.2024, 10:39:58 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:58 - INFO - New connected socket [id: I3o1XGcQoYZjdD4kAAFH]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: I3o1XGcQoYZjdD4kAAFH]
+30.5.2024, 10:39:58 - INFO - New connected socket [id: pdjRYZBUFgGi42sVAAFJ]
+30.5.2024, 10:39:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: pdjRYZBUFgGi42sVAAFJ]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - New connected socket [id: IAWR7jiudLFEGv2MAAFM]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: IAWR7jiudLFEGv2MAAFM]
+30.5.2024, 10:39:58 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - New connected socket [id: W1XO2QZWPvFukUHoAAFO]
+30.5.2024, 10:39:58 - INFO - New connected socket [id: iIdE5JN3z6km3I8JAAFQ]
+30.5.2024, 10:39:58 - INFO - Req was made | /
+30.5.2024, 10:39:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: iIdE5JN3z6km3I8JAAFQ]
+30.5.2024, 10:39:59 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:59 - INFO - New connected socket [id: 1BPC-rCQ_-UR2-TrAAFS]
+30.5.2024, 10:39:59 - INFO - Req was made | /
+30.5.2024, 10:39:59 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 1BPC-rCQ_-UR2-TrAAFS]
+30.5.2024, 10:39:59 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:59 - INFO - New connected socket [id: BYqIesQA1qFFln-HAAFU]
+30.5.2024, 10:39:59 - INFO - Req was made | /
+30.5.2024, 10:39:59 - INFO - New connected socket [id: yfhikL-aJcRji7rfAAFW]
+30.5.2024, 10:39:59 - INFO - Req was made | /
+30.5.2024, 10:39:59 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: yfhikL-aJcRji7rfAAFW]
+30.5.2024, 10:39:59 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:59 - INFO - New connected socket [id: RaahTo7nGmL3nx5RAAFY]
+30.5.2024, 10:39:59 - INFO - Req was made | /
+30.5.2024, 10:39:59 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: RaahTo7nGmL3nx5RAAFY]
+30.5.2024, 10:39:59 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:39:59 - INFO - New connected socket [id: LzB9geth6TCYeDCLAAFa]
+30.5.2024, 10:39:59 - INFO - Req was made | /
+30.5.2024, 10:39:59 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: LzB9geth6TCYeDCLAAFa]
+30.5.2024, 10:39:59 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:00 - INFO - New connected socket [id: LuK4Y_RlvwTzBhfMAAFc]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:00 - INFO - New connected socket [id: LpmMwrVWsvi41GxIAAFe]
+30.5.2024, 10:40:00 - INFO - New connected socket [id: 1d2sEH2ILp4rWa5xAAFg]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:00 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 1d2sEH2ILp4rWa5xAAFg]
+30.5.2024, 10:40:00 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:00 - INFO - New connected socket [id: OhrNCXDyVBImhJhVAAFi]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:00 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: OhrNCXDyVBImhJhVAAFi]
+30.5.2024, 10:40:00 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:00 - INFO - New connected socket [id: MVGtsFFTeByUXYVXAAFk]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:00 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: MVGtsFFTeByUXYVXAAFk]
+30.5.2024, 10:40:00 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:00 - INFO - New connected socket [id: ghF_7HWhRiz-VCsKAAFm]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:00 - INFO - New connected socket [id: 7NHM5cPcs5hWJ1RXAAFo]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:00 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 7NHM5cPcs5hWJ1RXAAFo]
+30.5.2024, 10:40:00 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:00 - INFO - New connected socket [id: 2ig3fpaMXwzuwhUyAAFq]
+30.5.2024, 10:40:00 - INFO - Req was made | /
+30.5.2024, 10:40:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 2ig3fpaMXwzuwhUyAAFq]
+30.5.2024, 10:40:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:01 - INFO - New connected socket [id: -SZwmXzQ8kdiWIMUAAFs]
+30.5.2024, 10:40:01 - INFO - Req was made | /
+30.5.2024, 10:40:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: -SZwmXzQ8kdiWIMUAAFs]
+30.5.2024, 10:40:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:01 - INFO - New connected socket [id: S7nUZwsEURW530TvAAFu]
+30.5.2024, 10:40:01 - INFO - Req was made | /
+30.5.2024, 10:40:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: S7nUZwsEURW530TvAAFu]
+30.5.2024, 10:40:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:01 - INFO - New connected socket [id: o_fxacgIgKYN-nosAAFw]
+30.5.2024, 10:40:01 - INFO - Req was made | /
+30.5.2024, 10:40:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: o_fxacgIgKYN-nosAAFw]
+30.5.2024, 10:40:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:01 - INFO - New connected socket [id: _Hy0Ishk-BSh8c69AAFy]
+30.5.2024, 10:40:01 - INFO - Req was made | /
+30.5.2024, 10:40:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: _Hy0Ishk-BSh8c69AAFy]
+30.5.2024, 10:40:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:01 - INFO - New connected socket [id: G6Sgr2EcCzNHJt6GAAF0]
+30.5.2024, 10:40:01 - INFO - Req was made | /
+30.5.2024, 10:40:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: G6Sgr2EcCzNHJt6GAAF0]
+30.5.2024, 10:40:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:01 - INFO - New connected socket [id: qaKh8YIwZ8MOzO0EAAF2]
+30.5.2024, 10:40:01 - INFO - Req was made | /
+30.5.2024, 10:40:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: qaKh8YIwZ8MOzO0EAAF2]
+30.5.2024, 10:40:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:01 - INFO - New connected socket [id: 31bf-o_5ncxhuPJ5AAF4]
+30.5.2024, 10:40:01 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 31bf-o_5ncxhuPJ5AAF4]
+30.5.2024, 10:40:02 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:02 - INFO - New connected socket [id: H-ebCoTs6cdY8nM3AAF6]
+30.5.2024, 10:40:02 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: H-ebCoTs6cdY8nM3AAF6]
+30.5.2024, 10:40:02 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:02 - INFO - New connected socket [id: IfpCnE2GuMKfrYUDAAF8]
+30.5.2024, 10:40:02 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: IfpCnE2GuMKfrYUDAAF8]
+30.5.2024, 10:40:02 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:02 - INFO - New connected socket [id: KVSuhyremA56DeTLAAF-]
+30.5.2024, 10:40:02 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: KVSuhyremA56DeTLAAF-]
+30.5.2024, 10:40:02 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:02 - INFO - New connected socket [id: -_dCn-MO5XmjqBo-AAGA]
+30.5.2024, 10:40:02 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: -_dCn-MO5XmjqBo-AAGA]
+30.5.2024, 10:40:02 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:02 - INFO - New connected socket [id: 7zxQqZRgRQb6XKHMAAGC]
+30.5.2024, 10:40:02 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 7zxQqZRgRQb6XKHMAAGC]
+30.5.2024, 10:40:02 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:02 - INFO - New connected socket [id: CqrDKNi5Qgjk8hRcAAGE]
+30.5.2024, 10:40:02 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: CqrDKNi5Qgjk8hRcAAGE]
+30.5.2024, 10:40:02 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:02 - INFO - New connected socket [id: htI1v-0EJqnpqqBOAAGG]
+30.5.2024, 10:40:02 - INFO - Req was made | /
+30.5.2024, 10:40:02 - INFO - New connected socket [id: vLSJx7_4E3oWHBYNAAGI]
+30.5.2024, 10:40:03 - INFO - Req was made | /
+30.5.2024, 10:40:03 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: vLSJx7_4E3oWHBYNAAGI]
+30.5.2024, 10:40:03 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:03 - INFO - New connected socket [id: 7_5xXBySsWrxjSkJAAGK]
+30.5.2024, 10:40:03 - INFO - Req was made | /
+30.5.2024, 10:40:03 - INFO - New connected socket [id: y34iZ2VyND5hyoH_AAGM]
+30.5.2024, 10:40:03 - INFO - Req was made | /
+30.5.2024, 10:40:03 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: y34iZ2VyND5hyoH_AAGM]
+30.5.2024, 10:40:03 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:03 - INFO - Req was made | /
+30.5.2024, 10:40:03 - INFO - New connected socket [id: kdLwJX-GmfbqhKu6AAGO]
+30.5.2024, 10:40:04 - INFO - New connected socket [id: iEoZNtzbIabL1L4HAAGQ]
+30.5.2024, 10:40:04 - INFO - Req was made | /
+30.5.2024, 10:40:04 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: iEoZNtzbIabL1L4HAAGQ]
+30.5.2024, 10:40:04 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:04 - INFO - New connected socket [id: Fr8MnLqPBMM6IzJTAAGS]
+30.5.2024, 10:40:04 - INFO - Req was made | /
+30.5.2024, 10:40:04 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Fr8MnLqPBMM6IzJTAAGS]
+30.5.2024, 10:40:04 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:04 - INFO - New connected socket [id: WMDbxIRwc0mUomE1AAGU]
+30.5.2024, 10:40:04 - INFO - Req was made | /
+30.5.2024, 10:40:04 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: WMDbxIRwc0mUomE1AAGU]
+30.5.2024, 10:40:04 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:04 - INFO - New connected socket [id: YSuOw5X20_xUFQSiAAGW]
+30.5.2024, 10:40:04 - INFO - Req was made | /
+30.5.2024, 10:40:04 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:04 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: YSuOw5X20_xUFQSiAAGW]
+30.5.2024, 10:40:04 - INFO - New connected socket [id: i2JfpKNcBm2JBX5oAAGY]
+30.5.2024, 10:40:04 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: i2JfpKNcBm2JBX5oAAGY]
+30.5.2024, 10:40:04 - INFO - Req was made | /
+30.5.2024, 10:40:10 - INFO - Removing socket.userId for socket [id: i2JfpKNcBm2JBX5oAAGY]
+30.5.2024, 10:40:13 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:13 - INFO - New connected socket [id: wA0QjTtx8eXMf_cDAAGa]
+30.5.2024, 10:40:13 - INFO - Req was made | /
+30.5.2024, 10:40:15 - INFO - Req was made | /
+30.5.2024, 10:40:25 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:40:25 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:40:25 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: wA0QjTtx8eXMf_cDAAGa]
+30.5.2024, 10:40:25 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:25 - INFO - New connected socket [id: VEtrW30fgZiLhNrSAAGc]
+30.5.2024, 10:40:26 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: VEtrW30fgZiLhNrSAAGc]
+30.5.2024, 10:40:26 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - New connected socket [id: A9rRGtfC_ijER1_-AAGe]
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - New connected socket [id: 1CLaWC3J7qbncQEcAAGg]
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:26 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - New connected socket [id: Jor7Saq9S0V973HtAAGr]
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - New connected socket [id: JGrTGHKuKmTs_0aFAAGt]
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - New connected socket [id: lITMa61SryBZF7i7AAGv]
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - New connected socket [id: niqJ70YbE_dcPf4oAAGy]
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - New connected socket [id: J9L3kEyoqDMVdJcOAAG0]
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - New connected socket [id: qYL_7wYRFHqFAY6vAAG2]
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:27 - INFO - New connected socket [id: 7x9WBE0YW7ArpKOrAAG5]
+30.5.2024, 10:40:27 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:28 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - New connected socket [id: T4XIkeANGFNHHUU3AAHJ]
+30.5.2024, 10:40:29 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - New connected socket [id: vKptlcX6pzedZOctAAHM]
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - New connected socket [id: gt8K7jXLedT-GBbAAAHO]
+30.5.2024, 10:40:29 - INFO - New connected socket [id: bpotn4ka1uLdjbfpAAHQ]
+30.5.2024, 10:40:29 - INFO - Req was made | /
+30.5.2024, 10:40:29 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:30 - INFO - New connected socket [id: IUXTYk1TGAM6yMXwAAHT]
+30.5.2024, 10:40:30 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: IUXTYk1TGAM6yMXwAAHT]
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Req was made | /
+30.5.2024, 10:40:30 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:31 - INFO - New connected socket [id: CqA6AehuiY4UhISzAAHf]
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: CqA6AehuiY4UhISzAAHf]
+30.5.2024, 10:40:31 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:31 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:32 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - New connected socket [id: 8G5S2T5b3kombMdUAAH2]
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - New connected socket [id: tSvxcnNbqMr8azlUAAH5]
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:33 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - New connected socket [id: Isbn2e41c6sVWOvrAAIF]
+30.5.2024, 10:40:34 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:34 - INFO - New connected socket [id: mqVsDNdwOosLPjTQAAIH]
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:34 - INFO - Req was made | /
+30.5.2024, 10:40:34 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - New connected socket [id: Uc-6t7KOrg4OTwudAAIL]
+30.5.2024, 10:40:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:35 - INFO - New connected socket [id: iyqPwK_3D0WepZNYAAIN]
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:35 - INFO - Req was made | /
+30.5.2024, 10:40:35 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - New connected socket [id: H9XlfpEbMuesT8fMAAIZ]
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: H9XlfpEbMuesT8fMAAIZ]
+30.5.2024, 10:40:36 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - New connected socket [id: ag6OkdPhhNSgO9JDAAIb]
+30.5.2024, 10:40:36 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - New connected socket [id: wVXK9GpNoZOZYx9OAAId]
+30.5.2024, 10:40:36 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - New connected socket [id: j5nlu802-GheEpb-AAIg]
+30.5.2024, 10:40:36 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - Req was made | /
+30.5.2024, 10:40:36 - INFO - New connected socket [id: aW9DisfezsGFHBgJAAIk]
+30.5.2024, 10:40:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - New connected socket [id: 3iiNrVlxlMSLgFt4AAIm]
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - New connected socket [id: LC2Smw1nUaRnmP-tAAIq]
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:37 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: LC2Smw1nUaRnmP-tAAIq]
+30.5.2024, 10:40:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:37 - INFO - New connected socket [id: VNegPMr42VwRjeIgAAIs]
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: VNegPMr42VwRjeIgAAIs]
+30.5.2024, 10:40:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Req was made | /
+30.5.2024, 10:40:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:37 - INFO - New connected socket [id: ec_BAYZzFCixeMGtAAIy]
+30.5.2024, 10:40:38 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - New connected socket [id: T8eQHBhqUdWGZQqzAAI0]
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - New connected socket [id: QuR-LorpJ_0Jsdv7AAI2]
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - New connected socket [id: td1m_GZH_GebqqvBAAI4]
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - New connected socket [id: mwMLCluM8N6A3yFjAAI-]
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:38 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - New connected socket [id: -P2AaQEDV4l8b5J0AAJC]
+30.5.2024, 10:40:39 - INFO - New connected socket [id: _5eYbzXdbePmdIi2AAJE]
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:39 - INFO - New connected socket [id: 4Nt6Vo3zyaJgMa0NAAJG]
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 4Nt6Vo3zyaJgMa0NAAJG]
+30.5.2024, 10:40:39 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - New connected socket [id: DNbiA7AD9n-IT5OAAAJK]
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: DNbiA7AD9n-IT5OAAAJK]
+30.5.2024, 10:40:39 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - New connected socket [id: ftzxhg8MPh6WXQ3DAAJM]
+30.5.2024, 10:40:39 - INFO - New connected socket [id: HGJMtD4ErwqE9ptmAAJO]
+30.5.2024, 10:40:39 - INFO - Req was made | /
+30.5.2024, 10:40:39 - INFO - New connected socket [id: RkSG2arGhZc26PMpAAJQ]
+30.5.2024, 10:40:39 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: RkSG2arGhZc26PMpAAJQ]
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:40 - INFO - New connected socket [id: ZgAoiZaLbdLULdJvAAJT]
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - New connected socket [id: l9wjRz6fGZWnrKy2AAJX]
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - New connected socket [id: _zVJdsx0QOkbd5NMAAJZ]
+30.5.2024, 10:40:40 - INFO - New connected socket [id: 1-DIK418dCtSifweAAJb]
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:40 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:40 - INFO - New connected socket [id: 0ZBo_jxI4HSwMnSrAAJd]
+30.5.2024, 10:40:40 - INFO - New connected socket [id: K5FN1tGYlQDwYjWaAAJf]
+30.5.2024, 10:40:40 - INFO - Req was made | /
+30.5.2024, 10:40:41 - INFO - Req was made | /
+30.5.2024, 10:40:41 - INFO - New connected socket [id: fwcVdt2T330mmxR4AAJh]
+30.5.2024, 10:40:41 - INFO - New connected socket [id: FR9mYdgaNMXnke6bAAJj]
+30.5.2024, 10:40:41 - INFO - Req was made | /
+30.5.2024, 10:40:41 - INFO - New connected socket [id: odeWNIwLdRA6QpRUAAJl]
+30.5.2024, 10:40:41 - INFO - Req was made | /
+30.5.2024, 10:40:41 - INFO - New connected socket [id: kkL5MpI6wOHr3vWPAAJn]
+30.5.2024, 10:40:41 - INFO - Req was made | /
+30.5.2024, 10:40:41 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: kkL5MpI6wOHr3vWPAAJn]
+30.5.2024, 10:40:41 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:41 - INFO - Req was made | /
+30.5.2024, 10:40:41 - INFO - Req was made | /
+30.5.2024, 10:40:41 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:41 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:42 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:42 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:43 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:44 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:45 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:45 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:45 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:47 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:48 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:48 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:40:54 - INFO - New connected socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:40:54 - INFO - Req was made | /
+30.5.2024, 10:40:54 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:40:59 - INFO - Removing socket.userId for socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:41:11 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:11 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:14 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:18 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:18 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:19 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:19 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:19 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:20 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:21 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:21 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:21 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:21 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:22 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:22 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:23 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:23 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:23 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:23 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:24 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:24 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:24 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:25 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:25 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:25 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:25 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:25 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:25 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:26 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:26 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:41:26 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:42:33 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:42:33 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:42:33 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:42:42 - INFO - Removing socket.userId for socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:44:18 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:44:18 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:44:18 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:44:28 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:44:29 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:44:29 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:44:39 - INFO - Removing socket.userId for socket [id: 04jKpOD1vEe9DsawAAJr]
+30.5.2024, 10:56:27 - INFO - Req was made | /
+30.5.2024, 10:56:36 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:56:36 - INFO - New connected socket [id: ihAIzzpFj11_rk_FAAJt]
+30.5.2024, 10:56:36 - INFO - Req was made | /
+30.5.2024, 10:56:49 - INFO - Req was made | /
+30.5.2024, 10:56:52 - INFO - Req was made | /
+30.5.2024, 10:58:09 - INFO - Req was made | /
+30.5.2024, 10:58:15 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:58:15 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:58:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: ihAIzzpFj11_rk_FAAJt]
+30.5.2024, 10:58:57 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:58:57 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:58:57 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: ihAIzzpFj11_rk_FAAJt]
+30.5.2024, 10:59:04 - INFO - Removing socket.userId for socket [id: ihAIzzpFj11_rk_FAAJt]
+30.5.2024, 10:59:15 - DEBUG - auth.service - login with username: ben
+30.5.2024, 10:59:15 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 10:59:15 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: ihAIzzpFj11_rk_FAAJt]
+30.5.2024, 10:59:46 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 10:59:47 - INFO - New connected socket [id: Hf1FXQQTz17b4f1rAAJv]
+30.5.2024, 10:59:47 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Hf1FXQQTz17b4f1rAAJv]
+30.5.2024, 10:59:47 - INFO - Req was made | /
+30.5.2024, 10:59:57 - INFO - Removing socket.userId for socket [id: Hf1FXQQTz17b4f1rAAJv]
+30.5.2024, 11:00:13 - DEBUG - auth.service - login with username: ben
+30.5.2024, 11:00:13 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 11:00:13 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: Hf1FXQQTz17b4f1rAAJv]
+30.5.2024, 11:00:21 - INFO - Req was made | /
+30.5.2024, 11:00:21 - INFO - No active socket for user: 622f3403e36c59e6164faf93
+30.5.2024, 11:00:24 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:00:24 - INFO - New connected socket [id: bsFq1xZu7g4IsVVDAAJx]
+30.5.2024, 11:00:24 - INFO - Req was made | /
+30.5.2024, 11:00:24 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: bsFq1xZu7g4IsVVDAAJx]
+30.5.2024, 11:00:24 - INFO - Req was made | /
+30.5.2024, 11:00:58 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:00:58 - INFO - New connected socket [id: 3GAAfk5uSMGPizMBAAJz]
+30.5.2024, 11:00:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 3GAAfk5uSMGPizMBAAJz]
+30.5.2024, 11:00:58 - INFO - Req was made | /
+30.5.2024, 11:02:56 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:02:56 - INFO - New connected socket [id: RSaXNG6n6gCxKBtfAAJ1]
+30.5.2024, 11:02:56 - INFO - Req was made | /
+30.5.2024, 11:02:56 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: RSaXNG6n6gCxKBtfAAJ1]
+30.5.2024, 11:03:58 - INFO - New connected socket [id: 1zy3iixZAYcs3rBxAAJ3]
+30.5.2024, 11:03:58 - INFO - Req was made | /
+30.5.2024, 11:03:58 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 1zy3iixZAYcs3rBxAAJ3]
+30.5.2024, 11:14:27 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:14:27 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:14:27 - INFO - New connected socket [id: csDl3YNlEZaYrS9tAAJ5]
+30.5.2024, 11:14:27 - INFO - Req was made | /
+30.5.2024, 11:14:27 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: csDl3YNlEZaYrS9tAAJ5]
+30.5.2024, 11:18:07 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:18:08 - INFO - New connected socket [id: UnJ09D_8MTQptPPmAAJ7]
+30.5.2024, 11:18:08 - INFO - Req was made | /
+30.5.2024, 11:18:08 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: UnJ09D_8MTQptPPmAAJ7]
+30.5.2024, 11:18:31 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:18:31 - INFO - New connected socket [id: NXxsKydPTh9jlm3qAAJ9]
+30.5.2024, 11:18:31 - INFO - Req was made | /
+30.5.2024, 11:18:31 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: NXxsKydPTh9jlm3qAAJ9]
+30.5.2024, 11:18:34 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:18:38 - INFO - New connected socket [id: niHAUFZeHHkafBTwAAJ_]
+30.5.2024, 11:18:38 - INFO - Req was made | /
+30.5.2024, 11:27:27 - INFO - New connected socket [id: 62dCM1iv7bXw2nFQAAKB]
+30.5.2024, 11:27:27 - INFO - Req was made | /
+30.5.2024, 11:29:42 - INFO - Req was made | /
+30.5.2024, 11:29:42 - INFO - Req was made | /
+30.5.2024, 11:32:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:32:12 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:32:13 - INFO - New connected socket [id: hgDqoRuO5oNZlp7PAAKD]
+30.5.2024, 11:32:13 - INFO - Req was made | /
+30.5.2024, 11:36:37 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:36:38 - INFO - New connected socket [id: xilfe4jezczGo3_rAAKF]
+30.5.2024, 11:36:38 - INFO - Req was made | /
+30.5.2024, 11:36:46 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:36:47 - INFO - New connected socket [id: SSi-a_gBvZmRDgl5AAKH]
+30.5.2024, 11:36:47 - INFO - Req was made | /
+30.5.2024, 11:38:40 - INFO - Req was made | /
+30.5.2024, 11:59:18 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 11:59:19 - INFO - New connected socket [id: aUHIDOpLk1A9lvQrAAKJ]
+30.5.2024, 11:59:19 - INFO - Req was made | /
+30.5.2024, 12:01:51 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:01:52 - INFO - New connected socket [id: CqG-6lAmsZXHi6i5AAKL]
+30.5.2024, 12:01:52 - INFO - Req was made | /
+30.5.2024, 12:02:42 - INFO - New connected socket [id: ScfF7KKhlXfGyAkMAAKN]
+30.5.2024, 12:02:42 - INFO - Req was made | /
+30.5.2024, 12:04:26 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:04:26 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:04:26 - INFO - New connected socket [id: CB82GCHMRoBaZMYwAAKP]
+30.5.2024, 12:04:26 - INFO - Req was made | /
+30.5.2024, 12:05:07 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:05:07 - INFO - New connected socket [id: FzoNbVUC_E3Ob2HDAAKR]
+30.5.2024, 12:05:07 - INFO - Req was made | /
+30.5.2024, 12:05:15 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:05:16 - INFO - New connected socket [id: eRwQv6Z4L0j574qWAAKT]
+30.5.2024, 12:05:16 - INFO - Req was made | /
+30.5.2024, 12:08:48 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:08:49 - INFO - New connected socket [id: e4D-cUQfSmk5deLhAAKV]
+30.5.2024, 12:08:49 - INFO - Req was made | /
+30.5.2024, 12:10:24 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:10:26 - INFO - New connected socket [id: oVC0NM67xuLpmYT_AAKX]
+30.5.2024, 12:10:26 - INFO - Req was made | /
+30.5.2024, 12:20:32 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:20:33 - INFO - New connected socket [id: IuC-2npXgLLVgy_yAAKZ]
+30.5.2024, 12:20:33 - INFO - Req was made | /
+30.5.2024, 12:25:58 - DEBUG - auth.service - login with username: ben
+30.5.2024, 12:25:59 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: IuC-2npXgLLVgy_yAAKZ]
+30.5.2024, 12:25:59 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 12:26:01 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:26:01 - INFO - New connected socket [id: H8nN0N70aRxnCGa3AAKb]
+30.5.2024, 12:26:01 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: H8nN0N70aRxnCGa3AAKb]
+30.5.2024, 12:26:01 - INFO - Req was made | /
+30.5.2024, 12:37:47 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:37:48 - INFO - New connected socket [id: SrDsW1M_M0_UXPbsAAKd]
+30.5.2024, 12:37:48 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: SrDsW1M_M0_UXPbsAAKd]
+30.5.2024, 12:37:48 - INFO - Req was made | /
+30.5.2024, 12:41:43 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 12:41:43 - INFO - New connected socket [id: FTGeTNc5n9Iz4_iCAAKf]
+30.5.2024, 12:41:43 - INFO - Req was made | /
+30.5.2024, 12:41:43 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: FTGeTNc5n9Iz4_iCAAKf]
+30.5.2024, 12:44:18 - INFO - New connected socket [id: RLt0_ltSUEsv8RNpAAKh]
+30.5.2024, 12:44:18 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: RLt0_ltSUEsv8RNpAAKh]
+30.5.2024, 12:44:19 - INFO - Req was made | /
+30.5.2024, 13:18:38 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 13:18:38 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 13:18:39 - INFO - New connected socket [id: MnIW7-GYKML36v-NAAKj]
+30.5.2024, 13:18:39 - INFO - Req was made | /
+30.5.2024, 13:18:39 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: MnIW7-GYKML36v-NAAKj]
+30.5.2024, 13:20:14 - INFO - Removing socket.userId for socket [id: MnIW7-GYKML36v-NAAKj]
+30.5.2024, 13:20:21 - DEBUG - auth.service - login with username: ben
+30.5.2024, 13:20:21 - INFO - User login:  | {"_id":"661d354e4d8de3dd04bff849","username":"ben","fullname":"Ben goldberger","imgUrl":"https://res.cloudinary.com/dheh8zkmv/image/upload/v1713190219/z2jvjkmg6g2uwt2ap4sr.png"}
+30.5.2024, 13:20:21 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: MnIW7-GYKML36v-NAAKj]
+30.5.2024, 13:20:23 - INFO - Req was made | /
+30.5.2024, 13:20:28 - INFO - Socket disconnected [id: undefined]
+30.5.2024, 13:20:28 - INFO - New connected socket [id: 2-OY1ypbAGBoFdUVAAKl]
+30.5.2024, 13:20:28 - INFO - Req was made | /
+30.5.2024, 13:20:28 - INFO - Setting socket.userId = 661d354e4d8de3dd04bff849 for socket [id: 2-OY1ypbAGBoFdUVAAKl]
+30.5.2024, 13:22:09 - INFO - server.js loaded...
+30.5.2024, 13:22:09 - INFO - Server is running on port: 3030
+30.5.2024, 13:22:09 - INFO - New connected socket [id: 9xTfLDuXdd21XitzAAAB]
+30.5.2024, 13:22:10 - INFO - server.js loaded...
+30.5.2024, 13:22:10 - INFO - Server is running on port: 3030
+30.5.2024, 13:22:11 - INFO - New connected socket [id: v_pLMMswNE5KH2DCAAAB]
